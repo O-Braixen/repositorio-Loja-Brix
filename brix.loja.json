@@ -1767,4 +1767,14 @@
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/jujutsu-kaisen-yuji-sukuna.png",
   "descricao": "Yuji Itadori a todo momento precisa controlar para que Sukuna não domine seu corpo, mas as vezes ele dá uma rapida escapada e domina um pedaço do seu rosto.",
   "font_color": "#691621"
+},
+{
+  "_id": "pokemon-lycanroc-sem-passeio",
+  "name": "Lycanroc não pode passear",
+  "braixencoin": 8100,
+  "graveto": 300,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/pokemon-lycanroc-sem-passeio.png",
+  "descricao": "Tadinho desse Lycanroc, ele só queria dar uma voltinha mas mal ele sabe que seu treinador vai apenas pegar uma encomenda.",
+  "font_color": "#ffffff"
 }]

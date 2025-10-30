@@ -1714,7 +1714,7 @@
   "braixencoin": 8000,
   "graveto": 350,
   "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/4627e55e56e83cc0b882117074b7c7cf9294e782/Artes%20Loja/0%20-%20comum/braixen-colegial-yoru.png",
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-colegial-yoru.png",
   "descricao": "Arte de YorusagiArt com sua Pokésona Yoru com um verdadeiro traje de aluna do ensino medio.",
   "font_color": "#ffffff"
 },
@@ -1724,7 +1724,7 @@
   "braixencoin": 35000,
   "graveto": 950,
   "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/a3a3b41014a53794e02e4c0b26001078a0da5b27/Artes%20Loja/1%20-%20raro/jujutsu-kaisen-yuji-dark.png",
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/jujutsu-kaisen-yuji-dark.png",
   "descricao": "Yuji Itadori de Jujutsu Kaisen, demonstrando o quão forte pode se tornar com talvez uma ajuda do Sukuna.",
   "font_color": "#ecc1b1"
 },
@@ -1734,7 +1734,7 @@
   "braixencoin": 0,
   "graveto": 0,
   "raridade": 3,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/29fd6adc5d07b49e5d58e864ba5502f0fffd376c/Artes%20Loja/3%20-%20Exclusive/braixen-day-2025-eventoexclusive.png",
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/3%20-%20Exclusive/braixen-day-2025-eventoexclusive.png",
   "descricao": "Arte Raposa Travessa em comemoração ao Braixen Day edição 2025, esse item foi entregue exclusivamente por código no dia 07/10/2025 e jamais entrará na loja.",
   "font_color": "#6e5946"
 },
@@ -1744,7 +1744,7 @@
   "braixencoin": 10000,
   "graveto": 370,
   "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/4627e55e56e83cc0b882117074b7c7cf9294e782/Artes%20Loja/0%20-%20comum/pokemon-campnight.png",
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/pokemon-campnight.png",
   "descricao": "Uma noite de acampamento com varios pokémon assando marshmallows em volta de uma fogueira.",
   "font_color": "#ffffff"
 },
@@ -1754,7 +1754,17 @@
   "braixencoin": 29000,
   "graveto": 750,
   "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/a3a3b41014a53794e02e4c0b26001078a0da5b27/Artes%20Loja/1%20-%20raro/jujutsu-kaisen-yuji-renascer.png",
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/jujutsu-kaisen-yuji-renascer.png",
   "descricao": "Yuji Itadori de Jujutsu Kaisen, em uma pose como se estivesse se preparando para lutar contra um inimigo.",
   "font_color": "#fd2d5d"
+},
+{
+  "_id": "jujutsu-kaisen-yuji-sukuna",
+  "name": "Dominação do Sukuna",
+  "braixencoin": 0,
+  "graveto": 3200,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/jujutsu-kaisen-yuji-sukuna.png",
+  "descricao": "Yuji Itadori a todo momento precisa controlar para que Sukuna não domine seu corpo, mas as vezes ele dá uma rapida escapada e domina um pedaço do seu rosto.",
+  "font_color": "#691621"
 }]

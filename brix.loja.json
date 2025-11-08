@@ -9,26 +9,6 @@
   "font_color": "#ffffff"
 },
 {
-  "_id": "braixen-house-2023",
-  "name": "Braixen House default",
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-house-2023.png",
-  "descricao": "Arte padrão do Brix.",
-  "font_color": "#ffffff",
-  "braixencoin": 0,
-  "graveto": 0
-},
-{
-  "_id": "braixen-la-art",
-  "name": "Braixen em Arte Pura",
-  "braixencoin": 45000,
-  "graveto": 1100,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/braixen-la-art.png",
-  "descricao": "Um Braixen com linhas e traçados vibrantes decorando seu perfil.",
-  "font_color": "#ffedba"
-},
-{
   "_id": "braixen-and-fennekins",
   "name": "Braixen perdido nos fennekin's",
   "braixencoin": 39000,
@@ -37,26 +17,6 @@
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/braixen-and-fennekins.png",
   "descricao": "Um Braixen cuidando de vários fennekin's.",
   "font_color": "#eb5973"
-},
-{
-  "_id": "braixen-fox-on-fire",
-  "name": "Braixen em chamas ardentes",
-  "graveto": 2400,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/braixen-fox-on-fire.png",
-  "descricao": "Arte de um Braixen retirada de uma carta de TCG.",
-  "braixencoin": 0,
-  "font_color": "#fffab1"
-},
-{
-  "_id": "braixen-fire-02",
-  "name": "Braixen envolto em chamas",
-  "braixencoin": 8500,
-  "graveto": 400,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-fire-02.png",
-  "descricao": "Arte clássica de um braixen brincando com chamas.",
-  "font_color": "#ffffff"
 },
 {
   "_id": "Infestacao-fennekin",
@@ -77,16 +37,6 @@
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/certamente-nao-braixen.png",
   "descricao": "Esse Braixen é diferente! Sim ele é a versão de Palworld inspirada em Braixen/Delphox.",
   "font_color": "#fc7d47"
-},
-{
-  "_id": "braixen-fire-03",
-  "name": "Braixen Chamas da Floresta",
-  "braixencoin": 10500,
-  "graveto": 450,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-fire-03.png",
-  "descricao": "Um Braixen passeando pela floresta com suas chamas ardentes.",
-  "font_color": "#ffffff"
 },
 {
   "_id": "protogen-01",
@@ -119,76 +69,6 @@
   "font_color": "#f26c00"
 },
 {
-  "_id": "soluco-and-banguela",
-  "name": "Homem e Dragão",
-  "braixencoin": 26000,
-  "graveto": 600,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/soluco-and-banguela.png",
-  "descricao": "Um Jovem viking que acaba se tornando um treinador de dragões.",
-  "font_color": "#dcd1ba"
-},
-{
-  "_id": "genshin-impact",
-  "name": "Mundo de Genshin",
-  "braixencoin": 19000,
-  "graveto": 500,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/genshin-impact.png",
-  "descricao": "Aprecie esse maravilhoso mundo de Genshin Impact no seu perfil.",
-  "font_color": "#d9edff"
-},
-{
-  "_id": "tubarao-furry",
-  "name": "Tirando Onda",
-  "braixencoin": 8000,
-  "graveto": 300,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/tubarao-furry.png",
-  "descricao": "Um tubarão diferenciado tirando uma onda com outro tubarão.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "braixen-mage",
-  "name": "Braixen Mago da Capa Azul",
-  "braixencoin": 0,
-  "graveto": 2700,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/braixen-mage.png",
-  "descricao": "Um Braixen e seu fiel companheiro Fennekin prontos para enfrentar um grande chefão.",
-  "font_color": "#63a4ff"
-},
-{
-  "_id": "braixen-house",
-  "name": "A Braixen's House",
-  "braixencoin": 7000,
-  "graveto": 250,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-house.png",
-  "descricao": "Uma casa cheia de Braixen, uma digna Braixen's House.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "Senko-san-praia",
-  "name": "Kitsune Relaxando",
-  "braixencoin": 0,
-  "graveto": 2900,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/Senko-san-praia.png",
-  "descricao": "Senko-san relaxando em uma especie de praia ou ilha desertica.",
-  "font_color": "#006596"
-},
-{
-  "_id": "tigre-furry",
-  "name": "Tigrinha",
-  "braixencoin": 8100,
-  "graveto": 300,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/tigre-furry.png",
-  "descricao": "Uma Tigresa muito bonita no seu perfil.",
-  "font_color": "#ffffff"
-},
-{
   "_id": "furry-01",
   "name": "A Garota Peluda",
   "braixencoin": 20000,
@@ -197,16 +77,6 @@
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/furry-01.png",
   "descricao": "Não sabemos oque é, mas é bonita, Yasmaka falou que é um esquilo.",
   "font_color": "#f7e3be"
-},
-{
-  "_id": "Pokenite",
-  "name": "Esquadrão Pokémon",
-  "braixencoin": 17000,
-  "graveto": 450,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/Pokenite.png",
-  "descricao": "Esquadrão Pokémon prontos para cair no mapa de fortnite.",
-  "font_color": "#ffffff"
 },
 {
   "_id": "genshin-impact-yaemiko",
@@ -219,26 +89,6 @@
   "font_color": "#a4158f"
 },
 {
-  "_id": "braixen-legend-zelda",
-  "name": "Braixen of the Wild",
-  "braixencoin": 0,
-  "graveto": 3600,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/braixen-legend-zelda.png",
-  "descricao": "Um Braixen no papel de Link em The legend of Zelda Breath of the Wild.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "lucario-elegante",
-  "name": "Lucario Elegante",
-  "braixencoin": 40000,
-  "graveto": 1250,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/lucario-elegante.png",
-  "descricao": "Um Lucario muito elegante e charmoso feito pelo flufflix.",
-  "font_color": "#fdda96"
-},
-{
   "_id": "braixen-elegante",
   "name": "Braixen Elegante",
   "braixencoin": 40000,
@@ -247,176 +97,6 @@
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/braixen-elegante.png",
   "descricao": "Um Braixen muito elegante e charmoso feito pelo flufflix.",
   "font_color": "#f7efa6"
-},
-{
-  "_id": "shadow-the-hedgehog",
-  "name": "Forma de vida Suprema",
-  "braixencoin": 24000,
-  "graveto": 850,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/shadow-the-hedgehog.png",
-  "descricao": "O ser de vida suprema, aquele que é a escuridão, conhecido como Shadow, Shadow The Hedgehog.",
-  "font_color": "#e37055"
-},
-{
-  "_id": "braixen-black",
-  "name": "Raposa na escuridão",
-  "braixencoin": 7000,
-  "graveto": 300,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-black.png",
-  "descricao": "Na escuridão, somente um ser poderá te ajudar, e esse ser é Braixen.",
-  "font_color": "#f6ceb2"
-},
-{
-  "_id": "genshin-impact-saiguu",
-  "name": "Kitsune Saiguu",
-  "braixencoin": 7000,
-  "graveto": 300,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/genshin-impact-saiguu.png",
-  "descricao": "Saiguu pertencente ao jogo Genshin Impact.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "braixen-witch",
-  "name": "O Serviço de Entregas da Braixen",
-  "braixencoin": 7000,
-  "graveto": 300,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-witch.png",
-  "descricao": "Braixen no cosplay de Kiki, uma jovem bruxa do filme O Serviço de Entregas da Kiki do studio ghibli.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "mc-braixen",
-  "name": "Raposas no intervalo",
-  "braixencoin": 7000,
-  "graveto": 300,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/mc-braixen.png",
-  "descricao": "Braixen e Delphox fazendo um intervalo.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "eevee-lagoa",
-  "name": "Eevee na Lagoa",
-  "braixencoin": 21000,
-  "graveto": 750,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/eevee-lagoa.png",
-  "descricao": "Um Eevee relaxando na floresta enquanto olha para um lago.",
-  "font_color": "#caceb7"
-},
-{
-  "_id": "kame-house",
-  "name": "Casa do Mestre Kame",
-  "braixencoin": 30000,
-  "graveto": 890,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/kame-house.png",
-  "descricao": "Uma casa iconica no seu perfil.",
-  "font_color": "#fffa6d"
-},
-{
-  "_id": "braixen-florido",
-  "name": "Braixen e as flores",
-  "braixencoin": 6500,
-  "graveto": 300,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-florido.png",
-  "descricao": "Um Braixen florido",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "Michiru-01",
-  "name": "Michiru e Shirou",
-  "braixencoin": 11000,
-  "graveto": 450,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/Michiru-01.png",
-  "descricao": "A dupla dinamica do BNA no seu perfil.",
-  "font_color": "#f8bba0"
-},
-{
-  "_id": "cinderace-sleep",
-  "name": "Treinador e Coelho",
-  "braixencoin": 8100,
-  "graveto": 300,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/cinderace-sleep.png",
-  "descricao": "Treinador dormindo com seu Cinderace.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "ankha",
-  "name": "Gata egípcia",
-  "braixencoin": 42000,
-  "graveto": 1350,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/ankha.png",
-  "descricao": "Ankha do animal crossing em uma bela arte.",
-  "font_color": "#ffeb5b"
-},
-{
-  "_id": "delphox-witch",
-  "name": "Delphox Witch",
-  "braixencoin": 9000,
-  "graveto": 350,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/delphox-witch.png",
-  "descricao": "Delphox indo estudar sobre magia na escola mais renomada dos bruxos art by @Rullu_1507.",
-  "font_color": "#ff6862"
-},
-{
-  "_id": "sun-doce",
-  "name": "Doce do Sun",
-  "braixencoin": 15000,
-  "graveto": 500,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/sun-doce.png",
-  "descricao": "Balinhas do seu Solzinho querido!",
-  "font_color": "#de3400"
-},
-{
-  "_id": "dust-hazbin",
-  "name": "Angel Dust",
-  "braixencoin": 7000,
-  "graveto": 300,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/dust-hazbin.png",
-  "descricao": "Uma estrela do cinema adulto do inferno no seu perfil art by theunconsistentone.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "braixen-preguica",
-  "name": "Raposa preguiçosa",
-  "braixencoin": 11000,
-  "graveto": 450,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-preguica.png",
-  "descricao": "Um Braixen relaxando na natureza enquanto se espreguiça.",
-  "font_color": "#3c2747"
-},
-{
-  "_id": "braixen-smoking",
-  "name": "Braixen Rebelde",
-  "braixencoin": 7000,
-  "graveto": 300,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-smoking.png",
-  "descricao": "Até Braixen pode acabar fumando, mas espero que esse seja o ultimo, Fumar faz mal.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "braixen-room",
-  "name": "Raposa e o Quarto",
-  "braixencoin": 9000,
-  "graveto": 300,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-room.png",
-  "descricao": "Braixen e fennekin se divertindo em um quarto art by ziryuu.",
-  "font_color": "#ffffff"
 },
 {
   "_id": "braixen-arqueiro",
@@ -439,16 +119,6 @@
   "font_color": "#f15318"
 },
 {
-  "_id": "braixen-fire-04",
-  "name": "Braixen proteção das chamas",
-  "braixencoin": 10500,
-  "graveto": 450,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-fire-04.png",
-  "descricao": "Um Braixen usando suas chamas como proteção de algo.",
-  "font_color": "#ffffff"
-},
-{
   "_id": "braixen-fox",
   "name": "Braixen The Fox",
   "braixencoin": 9500,
@@ -459,13 +129,263 @@
   "font_color": "#ffffff"
 },
 {
-  "_id": "pokeverso",
-  "name": "Pokéverso Mystery Dungeon",
-  "braixencoin": 8500,
+  "_id": "genshin-impact-gorou",
+  "name": "Gorou O Guerreiro Canino",
+  "braixencoin": 0,
+  "graveto": 3100,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/genshin-impact-gorou.png",
+  "descricao": "O General de Watatsumi, aquele que luta com com lealdade e valentia, Gorou o general com virtude.",
+  "font_color": "#2e272f"
+},
+{
+  "_id": "pokebrisa",
+  "name": "Paz Pokémon",
+  "braixencoin": 7000,
+  "graveto": 250,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/pokebrisa.png",
+  "descricao": "Meowscarada e Hisuian Typhlosion Aproveitando a boa brisa que uma planta pode oferecer.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "Kitsune-Rosada",
+  "name": "Kitsune Rosada",
+  "braixencoin": 21000,
+  "graveto": 750,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/Kitsune-Rosada.png",
+  "descricao": "Uma Garota Kitsune se deliciando com um belo sorvete em seu quarto.",
+  "font_color": "#b6eefb"
+},
+{
+  "_id": "pokemon-greninja",
+  "name": "O Poderoso Greninja",
+  "braixencoin": 18000,
+  "graveto": 750,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/pokemon-greninja.png",
+  "descricao": "O Grande Greninja Heroi da floresta no seu perfil.",
+  "font_color": "#253f78"
+},
+{
+  "_id": "fennekin-realistic",
+  "name": "Fennekin vida Real",
+  "braixencoin": 25000,
+  "graveto": 750,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/fennekin-realistic.png",
+  "descricao": "Um Fennekin super realista para decorar seu perfil, aposto que todos queriam uma raposinha como ela na vida real.",
+  "font_color": "#ffe829"
+},
+{
+  "_id": "braixen-house-lewd-2023",
+  "name": "Braixen Lewd 2023",
+  "braixencoin": 8000,
+  "graveto": 300,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-house-lewd-2023.png",
+  "descricao": "Uma Braixen com segundas intenções quem sabe, mas essa versão aqui é censurada.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "star-rail-acheron-boa",
+  "name": "Acheron lado bom by Star Rail",
+  "braixencoin": 10500,
+  "graveto": 450,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/star-rail-acheron-boa.png",
+  "descricao": "Acheron personagem de Star Rail é uma andarilha que afirma ser uma Galaxy Ranger.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "luffy-egghead-756623523996237904",
+  "name": "Luffy Arco de Egghead",
+  "braixencoin": 5000,
+  "graveto": 50,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/luffy-egghead-756623523996237904.png",
+  "descricao": "Arte do rei dos piratas Luffy durante seu arco da Egghead, item desenvolvido por <@756623523996237904> - 756623523996237904",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "gardevoir-realistic",
+  "name": "Gardevoir vida Real",
+  "braixencoin": 18000,
+  "graveto": 600,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/gardevoir-realistic.png",
+  "descricao": "Tenha em seu perfil uma incrível Gardevoir feito por inteligência artificial!",
+  "font_color": "#9cce64"
+},
+{
+  "_id": "pokemon-miraidom-558700146754322470",
+  "name": "The Miraidon",
+  "braixencoin": 29000,
+  "graveto": 825,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/pokemon-miraidom-558700146754322470.png",
+  "descricao": "O pokemon moto que se finge de largatixa, item desenvolvido por <@558700146754322470> - 558700146754322470",
+  "font_color": "#00427a"
+},
+{
+  "_id": "eevee-noiteazul-1209143579864334377",
+  "name": "Eevee Sobre as Estrelas",
+  "braixencoin": 15000,
+  "graveto": 300,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/eevee-noiteazul-1209143579864334377.png",
+  "descricao": "Um lindo e majestoso Eevee admirando um céu azul, item desenvolvido por <@1209143579864334377>- 1209143579864334377",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "braixen-and-serena-conquest",
+  "name": "Braixen e Serena Conquest",
+  "braixencoin": 25000,
+  "graveto": 720,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/braixen-and-serena-conquest.png",
+  "descricao": "Braixen e sua treinadora Serena prontas para o próximo conquest lá em kalos!",
+  "font_color": "#f28291"
+},
+{
+  "_id": "hollow-knight-1209143579864334377",
+  "name": "O Receptáculo Descartado",
+  "braixencoin": 0,
+  "graveto": 3200,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/hollow-knight-1209143579864334377.png",
+  "descricao": "O cavalheiro da noite do jogo Hollow Knight, item desenvolvido por <@1209143579864334377> - 1209143579864334377",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "pokemon-poochyena",
+  "name": "Poochyena o Destruidor",
+  "braixencoin": 20000,
+  "graveto": 720,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/pokemon-poochyena.png",
+  "descricao": "Poochyena destruindo um brinquedo de pelúcia.",
+  "font_color": "#f9f2e8"
+},
+{
+  "_id": "ratchet-and-clank-rivet",
+  "name": "Rivet a Lombax",
+  "braixencoin": 25000,
+  "graveto": 725,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/ratchet-and-clank-rivet.png",
+  "descricao": "Rivet ao anoitecer em algum planeta, captura de tela do jogo Ratchet and Clank Rift Apart.",
+  "font_color": "#3f2749"
+},
+{
+  "_id": "pokemon-cavalheiros-scarlet-violet",
+  "name": "Cavalheiros Armarouge e Ceruledge",
+  "braixencoin": 0,
+  "graveto": 4500,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/pokemon-cavalheiros-scarlet-violet.png",
+  "descricao": "Armarouge e Ceruledge são os Cavalheiros dos Jogos Scarlet e Violet, alguns até dizem que um é a contra parte do outro e eles estão certos.",
+  "font_color": "#c394ed"
+},
+{
+  "_id": "braixen-witch-02",
+  "name": "Braixen Witch",
+  "braixencoin": 8700,
+  "graveto": 300,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-witch-02.png",
+  "descricao": "Braixen com sua fantasia de bruxa se imaginando como uma verdadeira feiticeira.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "spider-man-art",
+  "name": "Homem Aranha em arte",
+  "braixencoin": 9000,
   "graveto": 400,
   "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/pokeverso.png",
-  "descricao": "Essa arte foi construida usando como referencia The Witcher 3 Blood and Wine pelo realspacejunk.",
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/spider-man-art.png",
+  "descricao": "O seu amigão da vizinhança com um belo tom artistico.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "braixen-house-2023",
+  "name": "Braixen House default",
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-house-2023.png",
+  "descricao": "Arte padrão do Brix.",
+  "font_color": "#ffffff",
+  "braixencoin": 0,
+  "graveto": 0
+},
+{
+  "_id": "braixen-la-art",
+  "name": "Braixen em Arte Pura",
+  "braixencoin": 45000,
+  "graveto": 1100,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/braixen-la-art.png",
+  "descricao": "Um Braixen com linhas e traçados vibrantes decorando seu perfil.",
+  "font_color": "#ffedba"
+},
+{
+  "_id": "tubarao-furry",
+  "name": "Tirando Onda",
+  "braixencoin": 8000,
+  "graveto": 300,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/tubarao-furry.png",
+  "descricao": "Um tubarão diferenciado tirando uma onda com outro tubarão.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "braixen-mage",
+  "name": "Braixen Mago da Capa Azul",
+  "braixencoin": 0,
+  "graveto": 2700,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/braixen-mage.png",
+  "descricao": "Um Braixen e seu fiel companheiro Fennekin prontos para enfrentar um grande chefão.",
+  "font_color": "#63a4ff"
+},
+{
+  "_id": "kame-house",
+  "name": "Casa do Mestre Kame",
+  "braixencoin": 35000,
+  "graveto": 890,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/kame-house.png",
+  "descricao": "Uma casa iconica no seu perfil.",
+  "font_color": "#fffa6d"
+},
+{
+  "_id": "sun-doce",
+  "name": "Doce do Sun",
+  "braixencoin": 15000,
+  "graveto": 500,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/sun-doce.png",
+  "descricao": "Balinhas do seu Solzinho querido!",
+  "font_color": "#de3400"
+},
+{
+  "_id": "braixen-preguica",
+  "name": "Raposa preguiçosa",
+  "braixencoin": 11000,
+  "graveto": 450,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-preguica.png",
+  "descricao": "Um Braixen relaxando na natureza enquanto se espreguiça.",
+  "font_color": "#3c2747"
+},
+{
+  "_id": "braixen-fire-04",
+  "name": "Braixen proteção das chamas",
+  "braixencoin": 10500,
+  "graveto": 450,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-fire-04.png",
+  "descricao": "Um Braixen usando suas chamas como proteção de algo.",
   "font_color": "#ffffff"
 },
 {
@@ -489,46 +409,6 @@
   "font_color": "#ffffff"
 },
 {
-  "_id": "braixen-premium",
-  "name": "Brix Premium v1",
-  "braixencoin": 0,
-  "graveto": 2300,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/braixen-premium.png",
-  "descricao": "Essa arte é a mesma utilizada no banner de compra da assinatura premium do brix e agora pode estar também no seu perfil.",
-  "font_color": "#e6da58"
-},
-{
-  "_id": "genshin-impact-razor",
-  "name": "Razor The Wolf",
-  "braixencoin": 0,
-  "graveto": 2500,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/genshin-impact-razor.png",
-  "descricao": "Aquele que anda com sua própria Matilha de lobos do Reino dos Lobos.",
-  "font_color": "#2a2527"
-},
-{
-  "_id": "genshin-impact-gorou",
-  "name": "Gorou O Guerreiro Canino",
-  "braixencoin": 0,
-  "graveto": 3100,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/genshin-impact-gorou.png",
-  "descricao": "O General de Watatsumi, aquele que luta com com lealdade e valentia, Gorou o general com virtude.",
-  "font_color": "#2e272f"
-},
-{
-  "_id": "braixen-oriental",
-  "name": "Braixen Estilo Oriental",
-  "braixencoin": 7000,
-  "graveto": 250,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-oriental.png",
-  "descricao": "Uma Braixen ao melhor estilo Oriental.",
-  "font_color": "#ffffff"
-},
-{
   "_id": "genshin-impact-tighnari",
   "name": "O Patrulheiro Florestal",
   "braixencoin": 14000,
@@ -549,36 +429,6 @@
   "font_color": "#ffffff"
 },
 {
-  "_id": "braixen-pc",
-  "name": "Braixen Impressionado",
-  "braixencoin": 7000,
-  "graveto": 250,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-pc.png",
-  "descricao": "Braixen admirando em seu computador um perfil muito assustado.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "pokebrisa",
-  "name": "Paz Pokémon",
-  "braixencoin": 7000,
-  "graveto": 250,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/pokebrisa.png",
-  "descricao": "Meowscarada e Hisuian Typhlosion Aproveitando a boa brisa que uma planta pode oferecer.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "Kitsune-Rosada",
-  "name": "Kitsune Rosada",
-  "braixencoin": 21000,
-  "graveto": 750,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/Kitsune-Rosada.png",
-  "descricao": "Uma Garota Kitsune se deliciando com um belo sorvete em seu quarto.",
-  "font_color": "#b6eefb"
-},
-{
   "_id": "pokemon-meowscarada",
   "name": "Gato no Apartamento",
   "braixencoin": 35000,
@@ -587,66 +437,6 @@
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/pokemon-meowscarada.png",
   "descricao": "Meowscarada bebendo um delicioso café em seu apartamento, a melhor forma de começar um dia.",
   "font_color": "#435348"
-},
-{
-  "_id": "pokemon-greninja",
-  "name": "O Poderoso Greninja",
-  "braixencoin": 18000,
-  "graveto": 750,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/pokemon-greninja.png",
-  "descricao": "O Grande Greninja Heroi da floresta no seu perfil.",
-  "font_color": "#253f78"
-},
-{
-  "_id": "pokemon-jirachi",
-  "name": "Pokémon Desejo - Jirachi",
-  "braixencoin": 18000,
-  "graveto": 600,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/pokemon-jirachi.png",
-  "descricao": "Jirachi o Pokémon desejo as lendas indicam que ele desperta por 7 dias a cada mil anos, e possui a habilidade de realizar qualquer desejo feito a ele.",
-  "font_color": "#fbf3bf"
-},
-{
-  "_id": "braixen-phoxfort",
-  "name": "Fort da Raposa",
-  "braixencoin": 9500,
-  "graveto": 430,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-phoxfort.png",
-  "descricao": "Braixen se sente invencível, reinando em seu fort de papelão.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "pokemon-iniciais-paldea",
-  "name": "Paldea Starters",
-  "braixencoin": 20000,
-  "graveto": 750,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/pokemon-iniciais-paldea.png",
-  "descricao": "Fuecoco, Sprigatito e Quaxly são os iniciais de Paldea, e qual deles será o seu parceiro?",
-  "font_color": "#fff2d5"
-},
-{
-  "_id": "pokemon-futebol",
-  "name": "Futebol Pokémon",
-  "braixencoin": 7000,
-  "graveto": 250,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/pokemon-futebol.png",
-  "descricao": "Tenha os pokémon jogando futebol em seu perfil.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "braixen-lumiose",
-  "name": "Braixen em Lumiose",
-  "braixencoin": 0,
-  "graveto": 3700,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/braixen-lumiose.png",
-  "descricao": "Braixen aproveitando para comprar alguns pães em Lumiose city.",
-  "font_color": "#fdff56"
 },
 {
   "_id": "delphox-deserto",
@@ -659,16 +449,6 @@
   "font_color": "#dec457"
 },
 {
-  "_id": "furry-foxgirl",
-  "name": "Garota Raposa",
-  "braixencoin": 7000,
-  "graveto": 300,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/furry-foxgirl.png",
-  "descricao": "Uma Garota Raposa furry em seu perfil.",
-  "font_color": "#ffffff"
-},
-{
   "_id": "pokemon-litten",
   "name": "Recém chegado",
   "braixencoin": 14000,
@@ -677,16 +457,6 @@
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/pokemon-litten.png",
   "descricao": "Litten é o novo inicial de fogo introduzido em Alola sendo aceito pelos seus amigos de tipagem.",
   "font_color": "#bdb3b6"
-},
-{
-  "_id": "braixens-mansion",
-  "name": "Assombração Fantasma",
-  "braixencoin": 0,
-  "graveto": 4100,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/braixens-mansion.png",
-  "descricao": "Braixen visitando uma mansão mal assombrada durante uma tempestade.",
-  "font_color": "#709ca7"
 },
 {
   "_id": "soluco-and-banguela-02",
@@ -709,76 +479,6 @@
   "font_color": "#5b261e"
 },
 {
-  "_id": "lucario-realistic",
-  "name": "Lucario vida Real",
-  "braixencoin": 23000,
-  "graveto": 700,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/lucario-realistic.png",
-  "descricao": "Esse Lucario está tão bem feito, que acredito que todos iriam querer ele na vida real no lugar de um cachorro.",
-  "font_color": "#4c597b"
-},
-{
-  "_id": "fennekin-realistic",
-  "name": "Fennekin vida Real",
-  "braixencoin": 25000,
-  "graveto": 750,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/fennekin-realistic.png",
-  "descricao": "Um Fennekin super realista para decorar seu perfil, aposto que todos queriam uma raposinha como ela na vida real.",
-  "font_color": "#ffe829"
-},
-{
-  "_id": "braixen-house-lewd-2023",
-  "name": "Braixen Lewd 2023",
-  "braixencoin": 8000,
-  "graveto": 300,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-house-lewd-2023.png",
-  "descricao": "Uma Braixen com segundas intenções quem sabe, mas essa versão aqui é censurada.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "genshin-impact-kirara",
-  "name": "Kirara The Cat",
-  "braixencoin": 0,
-  "graveto": 3600,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/genshin-impact-kirara.png",
-  "descricao": "Kirara, uma aventureira alegre, percorre a cidade em sua bicicleta azul vibrante, espalhando risadas e alegria em seu caminho.",
-  "font_color": "#134496"
-},
-{
-  "_id": "braixing-bad",
-  "name": "Braixing Bad",
-  "braixencoin": 8500,
-  "graveto": 400,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixing-bad.png",
-  "descricao": "Braixen White após descobrir que tem um câncer terminal resolve arriscar tudo para ganhar dinheiro enquanto pode, transformando sua van em um laboratório de gravetofetamina.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "meowscarada-realistic",
-  "name": "Meowscarada vida Real",
-  "braixencoin": 25000,
-  "graveto": 725,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/meowscarada-realistic.png",
-  "descricao": "O Gato Planta Meowscarada chegou para ser o destaque com seus detalhes de gato misturado com aspectos das folhas.",
-  "font_color": "#98d740"
-},
-{
-  "_id": "genshin-impact-kirara-ears",
-  "name": "Kirara The Cat v2",
-  "braixencoin": 0,
-  "graveto": 4800,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/genshin-impact-kirara-ears.png",
-  "descricao": "Kirara, uma aventureira alegre, explorando a floresta um local calmo e tranquilo, espalhando risadas e alegria em seu caminho.",
-  "font_color": "#78f6e2"
-},
-{
   "_id": "generixen",
   "name": "Generi-xen The Fox",
   "braixencoin": 7000,
@@ -787,36 +487,6 @@
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/generixen.png",
   "descricao": "Isso é um braixen? ou fennekin? ahhh quer saber não sei, vai ser Generixen e pronto.",
   "font_color": "#ffffff"
-},
-{
-  "_id": "star-rail-acheron-cruel",
-  "name": "Acheron Cruel by Star Rail",
-  "braixencoin": 10500,
-  "graveto": 450,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/star-rail-acheron-cruel.png",
-  "descricao": "Acheron personagem de Star Rail é uma andarilha que afirma ser uma Galaxy Ranger.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "star-rail-acheron-boa",
-  "name": "Acheron lado bom by Star Rail",
-  "braixencoin": 10500,
-  "graveto": 450,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/star-rail-acheron-boa.png",
-  "descricao": "Acheron personagem de Star Rail é uma andarilha que afirma ser uma Galaxy Ranger.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "genshin-impact-kokomi",
-  "name": "A Sacerdotisa Aquática",
-  "braixencoin": 14000,
-  "graveto": 450,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/genshin-impact-kokomi.png",
-  "descricao": "Sangonomiya Kokomi conhecida apenas como Kokomi é uma jovem Sacerdotisa Divina da Ilha Watatsumi e descendente do Clã Sangonomiya, art by Ankkoyom.",
-  "font_color": "#44ffff"
 },
 {
   "_id": "pokemon-meowscarada-switch",
@@ -829,16 +499,6 @@
   "font_color": "#dfe8bf"
 },
 {
-  "_id": "zelda-totk-02",
-  "name": "Aventureiro Link",
-  "braixencoin": 0,
-  "graveto": 1800,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/zelda-totk-02.png",
-  "descricao": "Link de Tears Of The Kingdom está pronto para partir em uma nova aventura em Hyrule.",
-  "font_color": "#ffffff"
-},
-{
   "_id": "badguys-diane",
   "name": "Raposa Malvada (BadGuys)",
   "braixencoin": 29000,
@@ -847,16 +507,6 @@
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/badguys-diane.png",
   "descricao": "Diane Foxington uma raposa que de dia é Governadora e de noite a The Crimson Paw.",
   "font_color": "#e8c796"
-},
-{
-  "_id": "zelda-totk-01",
-  "name": "Zelda Totk - Link",
-  "braixencoin": 7000,
-  "graveto": 250,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/zelda-totk-01.png",
-  "descricao": "Zelda Tears of the Kingdom com Link.",
-  "font_color": "#ffffff"
 },
 {
   "_id": "halloween-fennekin",
@@ -869,46 +519,6 @@
   "font_color": "#ffffff"
 },
 {
-  "_id": "luffy-egghead-756623523996237904",
-  "name": "Luffy Arco de Egghead",
-  "braixencoin": 5000,
-  "graveto": 50,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/luffy-egghead-756623523996237904.png",
-  "descricao": "Arte do rei dos piratas Luffy durante seu arco da Egghead, item desenvolvido por <@756623523996237904> - 756623523996237904",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "starwars-lop",
-  "name": "Lop The Lepi",
-  "braixencoin": 0,
-  "graveto": 2800,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/starwars-lop.png",
-  "descricao": "Uma órfã que se tornou uma guerreira habilidosa com um forte senso de justiça junto com seu fiel droid, Ocho.",
-  "font_color": "#c29da4"
-},
-{
-  "_id": "braixen-escolar",
-  "name": "Raposa na escola",
-  "braixencoin": 0,
-  "graveto": 3100,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/braixen-escolar.png",
-  "descricao": "As aulas voltaram e Braixen também voltou a estudar seja lá oque ele estuda.",
-  "font_color": "#f8c665"
-},
-{
-  "_id": "gardevoir-realistic",
-  "name": "Gardevoir vida Real",
-  "braixencoin": 18000,
-  "graveto": 600,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/gardevoir-realistic.png",
-  "descricao": "Tenha em seu perfil uma incrível Gardevoir feito por inteligência artificial!",
-  "font_color": "#9cce64"
-},
-{
   "_id": "starwars-fither",
   "name": "Star Wars Fighter",
   "braixencoin": 35000,
@@ -917,16 +527,6 @@
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/starwars-fither.png",
   "descricao": "Destroços de uma Guerra intergaláctica que parece nunca chegar ao fim.",
   "font_color": "#455a6b"
-},
-{
-  "_id": "starwars-stormtrooper",
-  "name": "Star Wars Punho das trevas",
-  "braixencoin": 25000,
-  "graveto": 700,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/starwars-stormtrooper.png",
-  "descricao": "Aquele que carrega traços de uma guerra intergaláctica interminável.",
-  "font_color": "#adcce0"
 },
 {
   "_id": "starwars-kylo-ren",
@@ -969,66 +569,6 @@
   "font_color": "#ffffff"
 },
 {
-  "_id": "zeraora-realistic",
-  "name": "Zeraora vida Real",
-  "braixencoin": 12000,
-  "graveto": 450,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/zeraora-realistic.png",
-  "descricao": "Tenha em seu perfil um incrível Zeraora feito por inteligência artificial!",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "starwars",
-  "name": "Star Wars Planeta Tao",
-  "braixencoin": 12000,
-  "graveto": 450,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/starwars.png",
-  "descricao": "Uma vista privilegiada do planeta D6 / Tao.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "pokemon-liko-floragato",
-  "name": "Liko & Floragato",
-  "braixencoin": 0,
-  "graveto": 4600,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/pokemon-liko-floragato.png",
-  "descricao": "Liko e Floragato curtindo o momento, arte original foi exibida nos créditos de Pokémon Horizontes ep 58 da versão japonesa.",
-  "font_color": "#ffd5d1"
-},
-{
-  "_id": "piplup-realistic",
-  "name": "Piplup  vida Real",
-  "braixencoin": 12000,
-  "graveto": 450,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/piplup-realistic.png",
-  "descricao": "Tenha em seu perfil um incrível Piplup feito por inteligência artificial!",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "godzilla-cidade",
-  "name": "Gojira Rei dos Monstros",
-  "braixencoin": 15000,
-  "graveto": 500,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/godzilla-cidade.png",
-  "descricao": "Gojira, conhecido como Godzilla é o lendário rei dos monstros, uma força colossal da natureza despertada pela humanidade..",
-  "font_color": "#80fbff"
-},
-{
-  "_id": "starwars-darthvader",
-  "name": "Starwars Lord das Trevas",
-  "braixencoin": 0,
-  "graveto": 3400,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/starwars-darthvader.png",
-  "descricao": "Um Cavaleiro Jedi talentoso que se voltou para o lado sombrio da Força assim sendo um Lorde Sith.",
-  "font_color": "#ce1145"
-},
-{
   "_id": "helldivers",
   "name": "Viva a Democracia",
   "braixencoin": 45000,
@@ -1037,36 +577,6 @@
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/helldivers.png",
   "descricao": "Junte-se aos helldivers, faça parte de uma força da paz de elite!, veja novas e exóticas formas de vida! E espalhe a Democracia Gerenciada por toda a galáxia, torne-se um HERÓI, torne-se uma LENDA, Torne-se um Helldiver!.",
   "font_color": "#44231d"
-},
-{
-  "_id": "starwars-yoda",
-  "name": "Star Wars Yoda",
-  "braixencoin": 21000,
-  "graveto": 700,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/starwars-yoda.png",
-  "descricao": "Um ser conhecido por sua sabedoria e capacidade de ver as coisas de uma perspectiva diferente. Aquele que é paciente e ponderado em suas decisões.",
-  "font_color": "#66a35e"
-},
-{
-  "_id": "konosuba-megumin",
-  "name": "Maga da Magia Explosiva",
-  "braixencoin": 10500,
-  "graveto": 450,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/konosuba-megumin.png",
-  "descricao": "Uma maga que só sabe usar uma unica magia, a magia mais poderosa de todas, Explosão!!!!!",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "konosuba-squad",
-  "name": "Aventureiros Atrapalhados",
-  "braixencoin": 0,
-  "graveto": 2800,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/konosuba-squad.png",
-  "descricao": "Viva e relembre as incríveis e azaradas aventuras do maior ladrão de calcinhas de todos. Kazuma e sua trupe estão indo a outra aventura.",
-  "font_color": "#a9e9fe"
 },
 {
   "_id": "wolverine-deadpool",
@@ -1109,46 +619,6 @@
   "font_color": "#f3d984"
 },
 {
-  "_id": "puro-furry-888130413799833600",
-  "name": "Estranha Visão",
-  "braixencoin": 12000,
-  "graveto": 550,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/puro-furry-888130413799833600.png",
-  "descricao": "Puro em uma estranha visão, já para seu perfil, item desenvolvido por <@888130413799833600>- 888130413799833600",
-  "font_color": "#d2715f"
-},
-{
-  "_id": "dog-agua-558700146754322470",
-  "name": "Agua Mineral",
-  "braixencoin": 18000,
-  "graveto": 600,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/dog-agua-558700146754322470.png",
-  "descricao": "Mais um dia comum comprando uma água pra se hidratar, item desenvolvido por <@558700146754322470> - 558700146754322470",
-  "font_color": "#6cff64"
-},
-{
-  "_id": "lol-xayah",
-  "name": "Vastaya Revolucionária",
-  "braixencoin": 37500,
-  "graveto": 1150,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/lol-xayah.png",
-  "descricao": "Xayah é uma revolucionaria que sempre trava suas próprias batalhas em prol do seu povo pronta para acabar com qualquer um com sua agilidade e plumas afiadas.",
-  "font_color": "#ec5b71"
-},
-{
-  "_id": "pokemon-miraidom-558700146754322470",
-  "name": "The Miraidon",
-  "braixencoin": 29000,
-  "graveto": 825,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/pokemon-miraidom-558700146754322470.png",
-  "descricao": "O pokemon moto que se finge de largatixa, item desenvolvido por <@558700146754322470> - 558700146754322470",
-  "font_color": "#00427a"
-},
-{
   "_id": "pokemon-koraidon-558700146754322470",
   "name": "The Koraidon",
   "braixencoin": 29000,
@@ -1157,96 +627,6 @@
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/pokemon-koraidon-558700146754322470.png",
   "descricao": "O pokemon largatixa que se finge de moto, item desenvolvido por <@558700146754322470> - 558700146754322470",
   "font_color": "#f7ff3e"
-},
-{
-  "_id": "spyro-dragon-558700146754322470",
-  "name": "Pequeno Dragão Spyro",
-  "braixencoin": 0,
-  "graveto": 4200,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/spyro-dragon-558700146754322470.png",
-  "descricao": "O Dragão roxo que adora tocar fogo nas coisas e se meter em confusões em que não foi chamado, um ótimo aventureiro pra levar nas viagens, item desenvolvido por <@558700146754322470> - 558700146754322470",
-  "font_color": "#ffd28b"
-},
-{
-  "_id": "konosuba-gama-megumin",
-  "name": "Maniaca das Explosões",
-  "braixencoin": 0,
-  "graveto": 3000,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/konosuba-gama-megumin.png",
-  "descricao": "Megumin é sem dúvidas uma maníaca viciada e fascinada pelo poder que uma explosão pode causar além de ser muito forte e ser capaz de garantir a vitória.",
-  "font_color": "#f22d35"
-},
-{
-  "_id": "natalxen-2024-eventoexclusive",
-  "name": "Natal 2024 (evento BH)",
-  "braixencoin": 0,
-  "graveto": 0,
-  "raridade": 3,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/3%20-%20Exclusive/natalxen-2024-eventoexclusive.png",
-  "descricao": "Arte comemorando o natal em 2024, este item foi feito exclusivamente para o evento Natalxen 2024 na Braixen's House e jamais entrará na loja.",
-  "font_color": "#c2676c"
-},
-{
-  "_id": "vinicius-aniversario-2024-eventoexclusive",
-  "name": "OBraixenversário 2024",
-  "braixencoin": 1,
-  "graveto": 0,
-  "raridade": 3,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/3%20-%20Exclusive/vinicius-aniversario-2024-eventoexclusive.png",
-  "descricao": "Arte comemorando os 26 anos do meu desenvolvedor o grande Vinicius conhecido por muitos como OBraixen, essa arte entrou na loja no dia 28/12/2024 e só foi comercializada neste dia.",
-  "font_color": "#f2e670"
-},
-{
-  "_id": "spider-man-espetacular",
-  "name": "O Espetacular Homem Aranha",
-  "braixencoin": 0,
-  "graveto": 4300,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/spider-man-espetacular.png",
-  "descricao": "O seu amigão da vizinhança o Homem-Aranha se preparando para proteger a cidade em mais uma noite.",
-  "font_color": "#ff5373"
-},
-{
-  "_id": "spider-man-blacksuit",
-  "name": "Spider-Man Blacksuit",
-  "braixencoin": 18000,
-  "graveto": 750,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/spider-man-blacksuit.png",
-  "descricao": "O Grande Homem Aranha trajado de Black Suit em uma noite de crimes.",
-  "font_color": "#888ea9"
-},
-{
-  "_id": "spider-man-cam",
-  "name": "Homem Aranha fotógrafo",
-  "braixencoin": 17000,
-  "graveto": 600,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/spider-man-cam.png",
-  "descricao": "O seu amigão da vizinhança tirando uma bela foto de alguém muito especial.",
-  "font_color": "#feffa8"
-},
-{
-  "_id": "anime-nokotan",
-  "name": "Shikanokotan",
-  "braixencoin": 12000,
-  "graveto": 450,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/anime-nokotan.png",
-  "descricao": "Shikanokonokonokoshitantan.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "eevee-noiteazul-1209143579864334377",
-  "name": "Eevee Sobre as Estrelas",
-  "braixencoin": 15000,
-  "graveto": 300,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/eevee-noiteazul-1209143579864334377.png",
-  "descricao": "Um lindo e majestoso Eevee admirando um céu azul, item desenvolvido por <@1209143579864334377>- 1209143579864334377",
-  "font_color": "#ffffff"
 },
 {
   "_id": "spooky-banguela-558700146754322470",
@@ -1269,16 +649,6 @@
   "font_color": "#aae6f0"
 },
 {
-  "_id": "artistic-umbreon",
-  "name": "Umbreon Radiante",
-  "braixencoin": 23000,
-  "graveto": 700,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/artistic-umbreon.png",
-  "descricao": "Contemple o Umbreon em toda sua elegância como uma fonte de luz na escuridão.",
-  "font_color": "#fff999"
-},
-{
   "_id": "artistic-glaceon",
   "name": "Glaceon Radiante",
   "braixencoin": 23000,
@@ -1287,6 +657,456 @@
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/artistic-glaceon.png",
   "descricao": "Glaceon é o companheiro para os amantes do frio.",
   "font_color": "#95c7e0"
+},
+{
+  "_id": "captura-fennekin-2025-eventoexclusive",
+  "name": "Caçada aos Fennekin's (evento BH)",
+  "braixencoin": 0,
+  "graveto": 0,
+  "raridade": 3,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/3%20-%20Exclusive/captura-fennekin-2025-eventoexclusive.png",
+  "descricao": "Arte Caçada aos Fennekin's edição 2025, este item foi feito exclusivamente para o evento Caçada aos Fennekin's na Braixen's House e jamais entrará na loja.",
+  "font_color": "#d53821"
+},
+{
+  "_id": "protogen-galaxy",
+  "name": "Protogen na Galáxia",
+  "braixencoin": 27000,
+  "graveto": 900,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/protogen-galaxy.png",
+  "descricao": "Um Protogen flutuando no espaço, perdido e solitário.",
+  "font_color": "#ab00bf"
+},
+{
+  "_id": "pokemon-liko-sleep",
+  "name": "Treinadora Descansando",
+  "braixencoin": 0,
+  "graveto": 5000,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/pokemon-liko-sleep.png",
+  "descricao": "Um Liko está descansando depois de mais um dia de incríveis aventuras ao lado de sua parceira Meowscarada.",
+  "font_color": "#a3fcff"
+},
+{
+  "_id": "pokemon-meowscarada-nerdroom",
+  "name": "Meow Nerdola",
+  "braixencoin": 0,
+  "graveto": 4100,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/pokemon-meowscarada-nerdroom.png",
+  "descricao": "Meowscarada visitando o quarto de seu novo treinador, um quarto cheio de referencias da cultura pop.",
+  "font_color": "#fbbeb0"
+},
+{
+  "_id": "pokemon-meowscarada-whatsapp",
+  "name": "Meow do Zap",
+  "braixencoin": 0,
+  "graveto": 5000,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/pokemon-meowscarada-whatsapp.png",
+  "descricao": "Meowscarada Edição Whatsapp, um dos mensageiros mais usados no mundo.",
+  "font_color": "#c7fede"
+},
+{
+  "_id": "braixen-soldier",
+  "name": "Cavalheiro Braixen",
+  "braixencoin": 7000,
+  "graveto": 250,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-soldier.png",
+  "descricao": "Braixen ao melhor estilo cavalheiro.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "banguela-nightblue-558700146754322470",
+  "name": "Dragão da Noite",
+  "braixencoin": 12000,
+  "graveto": 450,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/banguela-nightblue-558700146754322470.png",
+  "descricao": "O lindo efeito azulado de uma aurora distorcida, item desenvolvido por <@558700146754322470>- 558700146754322470",
+  "font_color": "#6ac2ff"
+},
+{
+  "_id": "wutheringwaves-Changli-1209143579864334377",
+  "name": "Changli de Wuthering Waves",
+  "braixencoin": 9000,
+  "graveto": 400,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/wutheringwaves-Changli-1209143579864334377.png",
+  "descricao": "Conselheira do Magistrado de Jinzhou, Changli é especialista em aproveitar a natureza humana para encurralar seus inimigos em armadilhas, item desenvolvido por <@1209143579864334377>- 1209143579864334377.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "braixen-angry",
+  "name": "Braixen Raivosa",
+  "braixencoin": 9000,
+  "graveto": 400,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-angry.png",
+  "descricao": "Braixen está sendo bastante incomodada e talvez chegue ao ponto de atacar aquele que a incomoda.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "braixen-premium-v2",
+  "name": "Brix Premium v2",
+  "braixencoin": 0,
+  "graveto": 0,
+  "raridade": 3,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/3%20-%20Exclusive/braixen-premium-v2.png",
+  "descricao": "Arte Brix Premium segunda versão, item exclusivo para todos que comprarem a assinatura pelo sistema de pagamento mercadopago.",
+  "font_color": "#e7c4f0"
+},
+{
+  "_id": "braixen-fox-on-fire",
+  "name": "Braixen em chamas ardentes",
+  "graveto": 2400,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/braixen-fox-on-fire.png",
+  "descricao": "Arte de um Braixen retirada de uma carta de TCG.",
+  "braixencoin": 0,
+  "font_color": "#fffab1"
+},
+{
+  "_id": "braixen-fire-02",
+  "name": "Braixen envolto em chamas",
+  "braixencoin": 8500,
+  "graveto": 400,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-fire-02.png",
+  "descricao": "Arte clássica de um braixen brincando com chamas.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "braixen-legend-zelda",
+  "name": "Braixen of the Wild",
+  "braixencoin": 0,
+  "graveto": 3600,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/braixen-legend-zelda.png",
+  "descricao": "Um Braixen no papel de Link em The legend of Zelda Breath of the Wild.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "shadow-the-hedgehog",
+  "name": "Forma de vida Suprema",
+  "braixencoin": 24000,
+  "graveto": 850,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/shadow-the-hedgehog.png",
+  "descricao": "O ser de vida suprema, aquele que é a escuridão, conhecido como Shadow, Shadow The Hedgehog.",
+  "font_color": "#e37055"
+},
+{
+  "_id": "braixen-black",
+  "name": "Raposa na escuridão",
+  "braixencoin": 7000,
+  "graveto": 300,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-black.png",
+  "descricao": "Na escuridão, somente um ser poderá te ajudar, e esse ser é Braixen.",
+  "font_color": "#f6ceb2"
+},
+{
+  "_id": "genshin-impact-saiguu",
+  "name": "Kitsune Saiguu",
+  "braixencoin": 7000,
+  "graveto": 300,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/genshin-impact-saiguu.png",
+  "descricao": "Saiguu pertencente ao jogo Genshin Impact.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "braixen-witch",
+  "name": "O Serviço de Entregas da Braixen",
+  "braixencoin": 7000,
+  "graveto": 300,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-witch.png",
+  "descricao": "Braixen no cosplay de Kiki, uma jovem bruxa do filme O Serviço de Entregas da Kiki do studio ghibli.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "eevee-lagoa",
+  "name": "Eevee na Lagoa",
+  "braixencoin": 21000,
+  "graveto": 750,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/eevee-lagoa.png",
+  "descricao": "Um Eevee relaxando na floresta enquanto olha para um lago.",
+  "font_color": "#caceb7"
+},
+{
+  "_id": "Michiru-01",
+  "name": "Michiru e Shirou",
+  "braixencoin": 11000,
+  "graveto": 450,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/Michiru-01.png",
+  "descricao": "A dupla dinamica do BNA no seu perfil.",
+  "font_color": "#f8bba0"
+},
+{
+  "_id": "cinderace-sleep",
+  "name": "Treinador e Coelho",
+  "braixencoin": 8100,
+  "graveto": 300,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/cinderace-sleep.png",
+  "descricao": "Treinador dormindo com seu Cinderace.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "delphox-witch",
+  "name": "Delphox Witch",
+  "braixencoin": 9000,
+  "graveto": 350,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/delphox-witch.png",
+  "descricao": "Delphox indo estudar sobre magia na escola mais renomada dos bruxos art by @Rullu_1507.",
+  "font_color": "#ff6862"
+},
+{
+  "_id": "dust-hazbin",
+  "name": "Angel Dust",
+  "braixencoin": 7000,
+  "graveto": 300,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/dust-hazbin.png",
+  "descricao": "Uma estrela do cinema adulto do inferno no seu perfil art by theunconsistentone.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "braixen-room",
+  "name": "Raposa e o Quarto",
+  "braixencoin": 9000,
+  "graveto": 300,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-room.png",
+  "descricao": "Braixen e fennekin se divertindo em um quarto art by ziryuu.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "braixen-premium",
+  "name": "Brix Premium v1",
+  "braixencoin": 0,
+  "graveto": 2300,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/braixen-premium.png",
+  "descricao": "Essa arte é a mesma utilizada no banner de compra da assinatura premium do brix e agora pode estar também no seu perfil.",
+  "font_color": "#e6da58"
+},
+{
+  "_id": "braixen-phoxfort",
+  "name": "Fort da Raposa",
+  "braixencoin": 9500,
+  "graveto": 430,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-phoxfort.png",
+  "descricao": "Braixen se sente invencível, reinando em seu fort de papelão.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "genshin-impact-kirara-ears",
+  "name": "Kirara The Cat v2",
+  "braixencoin": 0,
+  "graveto": 4200,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/genshin-impact-kirara-ears.png",
+  "descricao": "Kirara, uma aventureira alegre, explorando a floresta um local calmo e tranquilo, espalhando risadas e alegria em seu caminho.",
+  "font_color": "#78f6e2"
+},
+{
+  "_id": "star-rail-acheron-cruel",
+  "name": "Acheron Cruel by Star Rail",
+  "braixencoin": 10500,
+  "graveto": 450,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/star-rail-acheron-cruel.png",
+  "descricao": "Acheron personagem de Star Rail é uma andarilha que afirma ser uma Galaxy Ranger.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "genshin-impact-kokomi",
+  "name": "A Sacerdotisa Aquática",
+  "braixencoin": 14000,
+  "graveto": 450,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/genshin-impact-kokomi.png",
+  "descricao": "Sangonomiya Kokomi conhecida apenas como Kokomi é uma jovem Sacerdotisa Divina da Ilha Watatsumi e descendente do Clã Sangonomiya, art by Ankkoyom.",
+  "font_color": "#44ffff"
+},
+{
+  "_id": "zelda-totk-02",
+  "name": "Aventureiro Link",
+  "braixencoin": 0,
+  "graveto": 1800,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/zelda-totk-02.png",
+  "descricao": "Link de Tears Of The Kingdom está pronto para partir em uma nova aventura em Hyrule.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "zelda-totk-01",
+  "name": "Zelda Totk - Link",
+  "braixencoin": 7000,
+  "graveto": 250,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/zelda-totk-01.png",
+  "descricao": "Zelda Tears of the Kingdom com Link.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "braixen-escolar",
+  "name": "Raposa na escola",
+  "braixencoin": 0,
+  "graveto": 3100,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/braixen-escolar.png",
+  "descricao": "As aulas voltaram e Braixen também voltou a estudar seja lá oque ele estuda.",
+  "font_color": "#f8c665"
+},
+{
+  "_id": "starwars-stormtrooper",
+  "name": "Star Wars Punho das trevas",
+  "braixencoin": 25000,
+  "graveto": 700,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/starwars-stormtrooper.png",
+  "descricao": "Aquele que carrega traços de uma guerra intergaláctica interminável.",
+  "font_color": "#adcce0"
+},
+{
+  "_id": "starwars",
+  "name": "Star Wars Planeta Tao",
+  "braixencoin": 12000,
+  "graveto": 450,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/starwars.png",
+  "descricao": "Uma vista privilegiada do planeta D6 / Tao.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "piplup-realistic",
+  "name": "Piplup  vida Real",
+  "braixencoin": 12000,
+  "graveto": 450,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/piplup-realistic.png",
+  "descricao": "Tenha em seu perfil um incrível Piplup feito por inteligência artificial!",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "godzilla-cidade",
+  "name": "Gojira Rei dos Monstros",
+  "braixencoin": 15000,
+  "graveto": 500,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/godzilla-cidade.png",
+  "descricao": "Gojira, conhecido como Godzilla é o lendário rei dos monstros, uma força colossal da natureza despertada pela humanidade..",
+  "font_color": "#80fbff"
+},
+{
+  "_id": "starwars-darthvader",
+  "name": "Starwars Lord das Trevas",
+  "braixencoin": 0,
+  "graveto": 3400,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/starwars-darthvader.png",
+  "descricao": "Um Cavaleiro Jedi talentoso que se voltou para o lado sombrio da Força assim sendo um Lorde Sith.",
+  "font_color": "#ce1145"
+},
+{
+  "_id": "starwars-yoda",
+  "name": "Star Wars Yoda",
+  "braixencoin": 21000,
+  "graveto": 700,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/starwars-yoda.png",
+  "descricao": "Um ser conhecido por sua sabedoria e capacidade de ver as coisas de uma perspectiva diferente. Aquele que é paciente e ponderado em suas decisões.",
+  "font_color": "#66a35e"
+},
+{
+  "_id": "konosuba-megumin",
+  "name": "Maga da Magia Explosiva",
+  "braixencoin": 10500,
+  "graveto": 450,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/konosuba-megumin.png",
+  "descricao": "Uma maga que só sabe usar uma unica magia, a magia mais poderosa de todas, Explosão!!!!!",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "konosuba-squad",
+  "name": "Aventureiros Atrapalhados",
+  "braixencoin": 0,
+  "graveto": 2800,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/konosuba-squad.png",
+  "descricao": "Viva e relembre as incríveis e azaradas aventuras do maior ladrão de calcinhas de todos. Kazuma e sua trupe estão indo a outra aventura.",
+  "font_color": "#a9e9fe"
+},
+{
+  "_id": "puro-furry-888130413799833600",
+  "name": "Estranha Visão",
+  "braixencoin": 12000,
+  "graveto": 550,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/puro-furry-888130413799833600.png",
+  "descricao": "Puro em uma estranha visão, já para seu perfil, item desenvolvido por <@888130413799833600>- 888130413799833600",
+  "font_color": "#d2715f"
+},
+{
+  "_id": "natalxen-2024-eventoexclusive",
+  "name": "Natal 2024 (evento BH)",
+  "braixencoin": 0,
+  "graveto": 0,
+  "raridade": 3,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/3%20-%20Exclusive/natalxen-2024-eventoexclusive.png",
+  "descricao": "Arte comemorando o natal em 2024, este item foi feito exclusivamente para o evento Natalxen 2024 na Braixen's House e jamais entrará na loja.",
+  "font_color": "#c2676c"
+},
+{
+  "_id": "spider-man-espetacular",
+  "name": "O Espetacular Homem Aranha",
+  "braixencoin": 0,
+  "graveto": 4150,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/spider-man-espetacular.png",
+  "descricao": "O seu amigão da vizinhança o Homem-Aranha se preparando para proteger a cidade em mais uma noite.",
+  "font_color": "#ff5373"
+},
+{
+  "_id": "spider-man-cam",
+  "name": "Homem Aranha fotógrafo",
+  "braixencoin": 17000,
+  "graveto": 600,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/spider-man-cam.png",
+  "descricao": "O seu amigão da vizinhança tirando uma bela foto de alguém muito especial.",
+  "font_color": "#feffa8"
+},
+{
+  "_id": "anime-nokotan",
+  "name": "Shikanokotan",
+  "braixencoin": 12000,
+  "graveto": 450,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/anime-nokotan.png",
+  "descricao": "Shikanokonokonokoshitantan.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "artistic-umbreon",
+  "name": "Umbreon Radiante",
+  "braixencoin": 23000,
+  "graveto": 700,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/artistic-umbreon.png",
+  "descricao": "Contemple o Umbreon em toda sua elegância como uma fonte de luz na escuridão.",
+  "font_color": "#fff999"
 },
 {
   "_id": "artistic-sprigatito",
@@ -1302,71 +1122,11 @@
   "_id": "artistic-sylveon",
   "name": "Sylveon Radiante",
   "braixencoin": 0,
-  "graveto": 4300,
+  "graveto": 3900,
   "raridade": 2,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/artistic-sylveon.png",
   "descricao": "Sylveon visitando uma residência abandonada pelas ruinas do tempo tomada pela natureza.",
   "font_color": "#f27e95"
-},
-{
-  "_id": "captura-fennekin-2025-eventoexclusive",
-  "name": "Caçada aos Fennekin's (evento BH)",
-  "braixencoin": 0,
-  "graveto": 0,
-  "raridade": 3,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/3%20-%20Exclusive/captura-fennekin-2025-eventoexclusive.png",
-  "descricao": "Arte Caçada aos Fennekin's edição 2025, este item foi feito exclusivamente para o evento Caçada aos Fennekin's na Braixen's House e jamais entrará na loja.",
-  "font_color": "#d53821"
-},
-{
-  "_id": "anime-one-piece-luffy",
-  "name": "O rei dos Piratas",
-  "braixencoin": 7000,
-  "graveto": 300,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/anime-one-piece-luffy.png",
-  "descricao": "Monkey D. Luffy do mundo de One Piece que quer se tornar o rei dos piradas.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "dragonite-1209143579864334377",
-  "name": "Dragonite o entregador",
-  "braixencoin": 15000,
-  "graveto": 300,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/dragonite-1209143579864334377.png",
-  "descricao": "Um Dragonite voando pelo céu para fazer uma nova entrega, item desenvolvido por <@1209143579864334377>- 1209143579864334377",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "pokemon-umbreon-rain",
-  "name": "Umbreon na Chuva",
-  "braixencoin": 23000,
-  "graveto": 700,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/pokemon-umbreon-rain.png",
-  "descricao": "Noite de chuva com umbreon se secando depois de um passeio noturno.",
-  "font_color": "#fffa6a"
-},
-{
-  "_id": "braixen-and-serena-conquest",
-  "name": "Braixen e Serena Conquest",
-  "braixencoin": 25000,
-  "graveto": 720,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/braixen-and-serena-conquest.png",
-  "descricao": "Braixen e sua treinadora Serena prontas para o próximo conquest lá em kalos!",
-  "font_color": "#f28291"
-},
-{
-  "_id": "hollow-knight-1209143579864334377",
-  "name": "O Receptáculo Descartado",
-  "braixencoin": 0,
-  "graveto": 3200,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/hollow-knight-1209143579864334377.png",
-  "descricao": "O cavalheiro da noite do jogo Hollow Knight, item desenvolvido por <@1209143579864334377> - 1209143579864334377",
-  "font_color": "#ffffff"
 },
 {
   "_id": "pokemon-lycanroc-disputa",
@@ -1399,56 +1159,6 @@
   "font_color": "#00aec6"
 },
 {
-  "_id": "genshin-impact-arlecchino",
-  "name": "Arlecchino Genshin",
-  "braixencoin": 7000,
-  "graveto": 300,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/genshin-impact-arlecchino.png",
-  "descricao": "Arlecchino pertencente ao jogo Genshin Impact.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "gardevoir-aurora",
-  "name": "Gardevoir Aurora Boreal",
-  "braixencoin": 20000,
-  "graveto": 700,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/gardevoir-aurora.png",
-  "descricao": "Gardevoir apreciando um lindo céu com aurora boreal.",
-  "font_color": "#7beaf9"
-},
-{
-  "_id": "protogen-galaxy",
-  "name": "Protogen na Galáxia",
-  "braixencoin": 27000,
-  "graveto": 900,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/protogen-galaxy.png",
-  "descricao": "Um Protogen flutuando no espaço, perdido e solitário.",
-  "font_color": "#ab00bf"
-},
-{
-  "_id": "pokemon-liko-sleep",
-  "name": "Treinadora Descansando",
-  "braixencoin": 0,
-  "graveto": 5000,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/pokemon-liko-sleep.png",
-  "descricao": "Um Liko está descansando depois de mais um dia de incríveis aventuras ao lado de sua parceira Meowscarada.",
-  "font_color": "#a3fcff"
-},
-{
-  "_id": "pokemon-poochyena",
-  "name": "Poochyena o Destruidor",
-  "braixencoin": 20000,
-  "graveto": 720,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/pokemon-poochyena.png",
-  "descricao": "Poochyena destruindo um brinquedo de pelúcia.",
-  "font_color": "#f9f2e8"
-},
-{
   "_id": "delphox-poderoso",
   "name": "Poderosa raposa Delphox",
   "braixencoin": 18000,
@@ -1457,36 +1167,6 @@
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/delphox-poderoso.png",
   "descricao": "Delphox em mais um dia de treinamento com seu graveto magico em um lugar desconhecido isolado.",
   "font_color": "#ffcf96"
-},
-{
-  "_id": "pokemon-meowscarada-nerdroom",
-  "name": "Meow Nerdola",
-  "braixencoin": 0,
-  "graveto": 4500,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/pokemon-meowscarada-nerdroom.png",
-  "descricao": "Meowscarada visitando o quarto de seu novo treinador, um quarto cheio de referencias da cultura pop.",
-  "font_color": "#fbbeb0"
-},
-{
-  "_id": "pokemon-meowscarada-whatsapp",
-  "name": "Meow do Zap",
-  "braixencoin": 0,
-  "graveto": 5000,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/pokemon-meowscarada-whatsapp.png",
-  "descricao": "Meowscarada Edição Whatsapp, um dos mensageiros mais usados no mundo.",
-  "font_color": "#c7fede"
-},
-{
-  "_id": "braixen-soldier",
-  "name": "Cavalheiro Braixen",
-  "braixencoin": 7000,
-  "graveto": 250,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-soldier.png",
-  "descricao": "Braixen ao melhor estilo cavalheiro.",
-  "font_color": "#ffffff"
 },
 {
   "_id": "delphox-heart",
@@ -1499,16 +1179,6 @@
   "font_color": "#ffffff"
 },
 {
-  "_id": "flora-braixen",
-  "name": "Kyu ou Nyo!",
-  "braixencoin": 65000,
-  "graveto": 1450,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/flora-braixen.png",
-  "descricao": "Floragato e Braixen disputando pela sua atenção, onde que você só pode escolher um deles, ou o gato ou a raposa, mas talvez os dois podem ser escolhidos também.",
-  "font_color": "#3e679d"
-},
-{
   "_id": "pokemon-sylveon-blue",
   "name": "Eeveelution Sylveon",
   "braixencoin": 18000,
@@ -1519,14 +1189,444 @@
   "font_color": "#e891a3"
 },
 {
-  "_id": "banguela-nightblue-558700146754322470",
-  "name": "Dragão da Noite",
+  "_id": "braixen-lucario-guardioes",
+  "name": "Braixen e Lucario Guardiões",
+  "braixencoin": 23000,
+  "graveto": 700,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/braixen-lucario-guardioes.png",
+  "descricao": "Braixen e Lucario são os guardiões do fogo e da aura, arte de ShupaMikey.",
+  "font_color": "#ffab54"
+},
+{
+  "_id": "lucario-meditacao",
+  "name": "Meditação da Aura",
+  "braixencoin": 25000,
+  "graveto": 600,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/lucario-meditacao.png",
+  "descricao": "Lucario possui um lugar particular para que possa meditar em paz e controlar melhor o poder da aura.",
+  "font_color": "#9ce4fb"
+},
+{
+  "_id": "protogen-pink",
+  "name": "Protogen Rosada",
+  "braixencoin": 22500,
+  "graveto": 800,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/protogen-pink.png",
+  "descricao": "Uma Protogen de cor vibrantemente pink.",
+  "font_color": "#d565b1"
+},
+{
+  "_id": "braixen-fire-03",
+  "name": "Braixen Chamas da Floresta",
+  "braixencoin": 10500,
+  "graveto": 450,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-fire-03.png",
+  "descricao": "Um Braixen passeando pela floresta com suas chamas ardentes.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "soluco-and-banguela",
+  "name": "Homem e Dragão",
+  "braixencoin": 26000,
+  "graveto": 600,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/soluco-and-banguela.png",
+  "descricao": "Um Jovem viking que acaba se tornando um treinador de dragões.",
+  "font_color": "#dcd1ba"
+},
+{
+  "_id": "genshin-impact",
+  "name": "Mundo de Genshin",
+  "braixencoin": 19000,
+  "graveto": 500,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/genshin-impact.png",
+  "descricao": "Aprecie esse maravilhoso mundo de Genshin Impact no seu perfil.",
+  "font_color": "#d9edff"
+},
+{
+  "_id": "braixen-house",
+  "name": "A Braixen's House",
+  "braixencoin": 7000,
+  "graveto": 250,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-house.png",
+  "descricao": "Uma casa cheia de Braixen, uma digna Braixen's House.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "Senko-san-praia",
+  "name": "Kitsune Relaxando",
+  "braixencoin": 0,
+  "graveto": 2700,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/Senko-san-praia.png",
+  "descricao": "Senko-san relaxando em uma especie de praia ou ilha desertica.",
+  "font_color": "#006596"
+},
+{
+  "_id": "tigre-furry",
+  "name": "Tigrinha",
+  "braixencoin": 8100,
+  "graveto": 300,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/tigre-furry.png",
+  "descricao": "Uma Tigresa muito bonita no seu perfil.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "Pokenite",
+  "name": "Esquadrão Pokémon",
+  "braixencoin": 17000,
+  "graveto": 450,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/Pokenite.png",
+  "descricao": "Esquadrão Pokémon prontos para cair no mapa de fortnite.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "lucario-elegante",
+  "name": "Lucario Elegante",
+  "braixencoin": 42000,
+  "graveto": 1250,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/lucario-elegante.png",
+  "descricao": "Um Lucario muito elegante e charmoso feito pelo flufflix.",
+  "font_color": "#fdda96"
+},
+{
+  "_id": "mc-braixen",
+  "name": "Raposas no intervalo",
+  "braixencoin": 7000,
+  "graveto": 300,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/mc-braixen.png",
+  "descricao": "Braixen e Delphox fazendo um intervalo.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "braixen-florido",
+  "name": "Braixen e as flores",
+  "braixencoin": 6500,
+  "graveto": 300,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-florido.png",
+  "descricao": "Um Braixen florido",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "ankha",
+  "name": "Gata egípcia",
+  "braixencoin": 45000,
+  "graveto": 1350,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/ankha.png",
+  "descricao": "Ankha do animal crossing em uma bela arte.",
+  "font_color": "#ffeb5b"
+},
+{
+  "_id": "braixen-smoking",
+  "name": "Braixen Rebelde",
+  "braixencoin": 7000,
+  "graveto": 300,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-smoking.png",
+  "descricao": "Até Braixen pode acabar fumando, mas espero que esse seja o ultimo, Fumar faz mal.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "pokeverso",
+  "name": "Pokéverso Mystery Dungeon",
+  "braixencoin": 8500,
+  "graveto": 400,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/pokeverso.png",
+  "descricao": "Essa arte foi construida usando como referencia The Witcher 3 Blood and Wine pelo realspacejunk.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "genshin-impact-razor",
+  "name": "Razor The Wolf",
+  "braixencoin": 0,
+  "graveto": 2500,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/genshin-impact-razor.png",
+  "descricao": "Aquele que anda com sua própria Matilha de lobos do Reino dos Lobos.",
+  "font_color": "#2a2527"
+},
+{
+  "_id": "braixen-oriental",
+  "name": "Braixen Estilo Oriental",
+  "braixencoin": 7000,
+  "graveto": 250,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-oriental.png",
+  "descricao": "Uma Braixen ao melhor estilo Oriental.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "braixen-pc",
+  "name": "Braixen Impressionado",
+  "braixencoin": 7000,
+  "graveto": 250,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-pc.png",
+  "descricao": "Braixen admirando em seu computador um perfil muito assustado.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "pokemon-jirachi",
+  "name": "Pokémon Desejo - Jirachi",
+  "braixencoin": 18000,
+  "graveto": 600,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/pokemon-jirachi.png",
+  "descricao": "Jirachi o Pokémon desejo as lendas indicam que ele desperta por 7 dias a cada mil anos, e possui a habilidade de realizar qualquer desejo feito a ele.",
+  "font_color": "#fbf3bf"
+},
+{
+  "_id": "pokemon-iniciais-paldea",
+  "name": "Paldea Starters",
+  "braixencoin": 20000,
+  "graveto": 450,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/pokemon-iniciais-paldea.png",
+  "descricao": "Fuecoco, Sprigatito e Quaxly são os iniciais de Paldea, e qual deles será o seu parceiro?",
+  "font_color": "#fff2d5"
+},
+{
+  "_id": "pokemon-futebol",
+  "name": "Futebol Pokémon",
+  "braixencoin": 7000,
+  "graveto": 250,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/pokemon-futebol.png",
+  "descricao": "Tenha os pokémon jogando futebol em seu perfil.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "braixen-lumiose",
+  "name": "Braixen em Lumiose",
+  "braixencoin": 0,
+  "graveto": 3700,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/braixen-lumiose.png",
+  "descricao": "Braixen aproveitando para comprar alguns pães em Lumiose city.",
+  "font_color": "#fdff56"
+},
+{
+  "_id": "furry-foxgirl",
+  "name": "Garota Raposa",
+  "braixencoin": 7000,
+  "graveto": 300,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/furry-foxgirl.png",
+  "descricao": "Uma Garota Raposa furry em seu perfil.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "braixens-mansion",
+  "name": "Assombração Fantasma",
+  "braixencoin": 0,
+  "graveto": 3800,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/braixens-mansion.png",
+  "descricao": "Braixen visitando uma mansão mal assombrada durante uma tempestade.",
+  "font_color": "#709ca7"
+},
+{
+  "_id": "lucario-realistic",
+  "name": "Lucario vida Real",
+  "braixencoin": 23000,
+  "graveto": 700,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/lucario-realistic.png",
+  "descricao": "Esse Lucario está tão bem feito, que acredito que todos iriam querer ele na vida real no lugar de um cachorro.",
+  "font_color": "#4c597b"
+},
+{
+  "_id": "genshin-impact-kirara",
+  "name": "Kirara The Cat",
+  "braixencoin": 0,
+  "graveto": 3600,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/genshin-impact-kirara.png",
+  "descricao": "Kirara, uma aventureira alegre, percorre a cidade em sua bicicleta azul vibrante, espalhando risadas e alegria em seu caminho.",
+  "font_color": "#134496"
+},
+{
+  "_id": "braixing-bad",
+  "name": "Braixing Bad",
+  "braixencoin": 8500,
+  "graveto": 400,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixing-bad.png",
+  "descricao": "Braixen White após descobrir que tem um câncer terminal resolve arriscar tudo para ganhar dinheiro enquanto pode, transformando sua van em um laboratório de gravetofetamina.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "meowscarada-realistic",
+  "name": "Meowscarada vida Real",
+  "braixencoin": 25000,
+  "graveto": 725,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/meowscarada-realistic.png",
+  "descricao": "O Gato Planta Meowscarada chegou para ser o destaque com seus detalhes de gato misturado com aspectos das folhas.",
+  "font_color": "#98d740"
+},
+{
+  "_id": "starwars-lop",
+  "name": "Lop The Lepi",
+  "braixencoin": 0,
+  "graveto": 2800,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/starwars-lop.png",
+  "descricao": "Uma órfã que se tornou uma guerreira habilidosa com um forte senso de justiça junto com seu fiel droid, Ocho.",
+  "font_color": "#c29da4"
+},
+{
+  "_id": "zeraora-realistic",
+  "name": "Zeraora vida Real",
   "braixencoin": 12000,
   "graveto": 450,
   "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/banguela-nightblue-558700146754322470.png",
-  "descricao": "O lindo efeito azulado de uma aurora distorcida, item desenvolvido por <@558700146754322470>- 558700146754322470",
-  "font_color": "#6ac2ff"
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/zeraora-realistic.png",
+  "descricao": "Tenha em seu perfil um incrível Zeraora feito por inteligência artificial!",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "pokemon-liko-floragato",
+  "name": "Liko & Floragato",
+  "braixencoin": 0,
+  "graveto": 4000,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/pokemon-liko-floragato.png",
+  "descricao": "Liko e Floragato curtindo o momento, arte original foi exibida nos créditos de Pokémon Horizontes ep 58 da versão japonesa.",
+  "font_color": "#ffd5d1"
+},
+{
+  "_id": "dog-agua-558700146754322470",
+  "name": "Agua Mineral",
+  "braixencoin": 18000,
+  "graveto": 600,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/dog-agua-558700146754322470.png",
+  "descricao": "Mais um dia comum comprando uma água pra se hidratar, item desenvolvido por <@558700146754322470> - 558700146754322470",
+  "font_color": "#6cff64"
+},
+{
+  "_id": "lol-xayah",
+  "name": "Vastaya Revolucionária",
+  "braixencoin": 37500,
+  "graveto": 1150,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/lol-xayah.png",
+  "descricao": "Xayah é uma revolucionaria que sempre trava suas próprias batalhas em prol do seu povo pronta para acabar com qualquer um com sua agilidade e plumas afiadas.",
+  "font_color": "#ec5b71"
+},
+{
+  "_id": "spyro-dragon-558700146754322470",
+  "name": "Pequeno Dragão Spyro",
+  "braixencoin": 0,
+  "graveto": 4200,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/spyro-dragon-558700146754322470.png",
+  "descricao": "O Dragão roxo que adora tocar fogo nas coisas e se meter em confusões em que não foi chamado, um ótimo aventureiro pra levar nas viagens, item desenvolvido por <@558700146754322470> - 558700146754322470",
+  "font_color": "#ffd28b"
+},
+{
+  "_id": "konosuba-gama-megumin",
+  "name": "Maniaca das Explosões",
+  "braixencoin": 0,
+  "graveto": 2750,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/konosuba-gama-megumin.png",
+  "descricao": "Megumin é sem dúvidas uma maníaca viciada e fascinada pelo poder que uma explosão pode causar além de ser muito forte e ser capaz de garantir a vitória.",
+  "font_color": "#f22d35"
+},
+{
+  "_id": "vinicius-aniversario-2024-eventoexclusive",
+  "name": "OBraixenversário 2024",
+  "braixencoin": 1,
+  "graveto": 0,
+  "raridade": 3,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/3%20-%20Exclusive/vinicius-aniversario-2024-eventoexclusive.png",
+  "descricao": "Arte comemorando os 26 anos do meu desenvolvedor o grande Vinicius conhecido por muitos como OBraixen, essa arte entrou na loja no dia 28/12/2024 e só foi comercializada neste dia.",
+  "font_color": "#f2e670"
+},
+{
+  "_id": "spider-man-blacksuit",
+  "name": "Spider-Man Blacksuit",
+  "braixencoin": 23700,
+  "graveto": 750,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/spider-man-blacksuit.png",
+  "descricao": "O Grande Homem Aranha trajado de Black Suit em uma noite de crimes.",
+  "font_color": "#888ea9"
+},
+{
+  "_id": "anime-one-piece-luffy",
+  "name": "O rei dos Piratas",
+  "braixencoin": 7000,
+  "graveto": 300,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/anime-one-piece-luffy.png",
+  "descricao": "Monkey D. Luffy do mundo de One Piece que quer se tornar o rei dos piradas.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "dragonite-1209143579864334377",
+  "name": "Dragonite o entregador",
+  "braixencoin": 15000,
+  "graveto": 300,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/dragonite-1209143579864334377.png",
+  "descricao": "Um Dragonite voando pelo céu para fazer uma nova entrega, item desenvolvido por <@1209143579864334377>- 1209143579864334377",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "pokemon-umbreon-rain",
+  "name": "Umbreon na Chuva",
+  "braixencoin": 23000,
+  "graveto": 700,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/pokemon-umbreon-rain.png",
+  "descricao": "Noite de chuva com umbreon se secando depois de um passeio noturno.",
+  "font_color": "#fffa6a"
+},
+{
+  "_id": "genshin-impact-arlecchino",
+  "name": "Arlecchino Genshin",
+  "braixencoin": 7000,
+  "graveto": 300,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/genshin-impact-arlecchino.png",
+  "descricao": "Arlecchino pertencente ao jogo Genshin Impact.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "gardevoir-aurora",
+  "name": "Gardevoir Aurora Boreal",
+  "braixencoin": 23950,
+  "graveto": 725,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/gardevoir-aurora.png",
+  "descricao": "Gardevoir apreciando um lindo céu com aurora boreal.",
+  "font_color": "#7beaf9"
+},
+{
+  "_id": "flora-braixen",
+  "name": "Kyu ou Nyo!",
+  "braixencoin": 49500,
+  "graveto": 1150,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/flora-braixen.png",
+  "descricao": "Floragato e Braixen disputando pela sua atenção, onde que você só pode escolher um deles, ou o gato ou a raposa, mas talvez os dois podem ser escolhidos também.",
+  "font_color": "#3e679d"
 },
 {
   "_id": "meowscarada-cidadeanoitecendo",
@@ -1551,58 +1651,28 @@
 {
   "_id": "belfort-lupin-1054557044574789692",
   "name": "Belfort & Lupin",
-  "braixencoin": 2000,
-  "graveto": 200,
+  "braixencoin": 5000,
+  "graveto": 350,
   "raridade": 0,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/belfort-lupin-1054557044574789692.png",
   "descricao": "Colagem dos personagens Belfort & Lupin,item desenvolvido por <@1054557044574789692>- 1054557044574789692.",
   "font_color": "#ffffff"
 },
 {
-  "_id": "wutheringwaves-Changli-1209143579864334377",
-  "name": "Changli de Wuthering Waves",
-  "braixencoin": 9000,
-  "graveto": 400,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/wutheringwaves-Changli-1209143579864334377.png",
-  "descricao": "Conselheira do Magistrado de Jinzhou, Changli é especialista em aproveitar a natureza humana para encurralar seus inimigos em armadilhas, item desenvolvido por <@1209143579864334377>- 1209143579864334377.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "ratchet-and-clank-rivet",
-  "name": "Rivet a Lombax",
-  "braixencoin": 25000,
-  "graveto": 725,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/ratchet-and-clank-rivet.png",
-  "descricao": "Rivet ao anoitecer em algum planeta, captura de tela do jogo Ratchet and Clank Rift Apart.",
-  "font_color": "#3f2749"
-},
-{
   "_id": "pokemon-meowscarada-nokotan",
   "name": "shikanoko nokonoko meowscarada",
   "braixencoin": 9000,
-  "graveto": 400,
+  "graveto": 350,
   "raridade": 0,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/pokemon-meowscarada-nokotan.png",
   "descricao": "Meowscarada em um dia de aula ao melhor estilo do anime Minha Amiga Nokotan É um Cervo.",
   "font_color": "#ffffff"
 },
 {
-  "_id": "braixen-angry",
-  "name": "Braixen Raivosa",
-  "braixencoin": 9000,
-  "graveto": 400,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-angry.png",
-  "descricao": "Braixen está sendo bastante incomodada e talvez chegue ao ponto de atacar aquele que a incomoda.",
-  "font_color": "#ffffff"
-},
-{
   "_id": "pokemon-braixen-nokotan",
   "name": "shikanoko nokonoko Braixen",
   "braixencoin": 9000,
-  "graveto": 400,
+  "graveto": 350,
   "raridade": 0,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/pokemon-braixen-nokotan.png",
   "descricao": "Braixen em um dia de aula ao melhor estilo do anime Minha Amiga Nokotan É um Cervo, arte de AsuraKitsune.",
@@ -1612,97 +1682,27 @@
   "_id": "braixen-walkpark",
   "name": "Té e Café no Parque",
   "braixencoin": 0,
-  "graveto": 2400,
+  "graveto": 1750,
   "raridade": 2,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/braixen-walkpark.png",
   "descricao": "Dois Braixen passeando em um parque, arte de CoffeeFly.",
   "font_color": "#e6e170"
 },
 {
-  "_id": "braixen-lucario-guardioes",
-  "name": "Braixen e Lucario Guardiões",
-  "braixencoin": 23000,
-  "graveto": 700,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/braixen-lucario-guardioes.png",
-  "descricao": "Braixen e Lucario são os guardiões do fogo e da aura, arte de ShupaMikey.",
-  "font_color": "#ffab54"
-},
-{
-  "_id": "pokemon-cavalheiros-scarlet-violet",
-  "name": "Cavalheiros Armarouge e Ceruledge",
-  "braixencoin": 0,
-  "graveto": 4500,
-  "raridade": 2,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/pokemon-cavalheiros-scarlet-violet.png",
-  "descricao": "Armarouge e Ceruledge são os Cavalheiros dos Jogos Scarlet e Violet, alguns até dizem que um é a contra parte do outro e eles estão certos.",
-  "font_color": "#c394ed"
-},
-{
-  "_id": "lucario-meditacao",
-  "name": "Meditação da Aura",
-  "braixencoin": 25000,
-  "graveto": 600,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/lucario-meditacao.png",
-  "descricao": "Lucario possui um lugar particular para que possa meditar em paz e controlar melhor o poder da aura.",
-  "font_color": "#9ce4fb"
-},
-{
   "_id": "pokemon-liko-ash",
   "name": "Passando o Bastão Anipoke",
   "braixencoin": 0,
-  "graveto": 4500,
+  "graveto": 3950,
   "raridade": 2,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/pokemon-liko-ash.png",
   "descricao": "Ash se despedindo do anime e entregando ele para a nova protagonista Liko que assumiu o novo anime Pokémon Horizontes.",
   "font_color": "#ffb5d5"
 },
 {
-  "_id": "braixen-witch-02",
-  "name": "Braixen Witch",
-  "braixencoin": 8700,
-  "graveto": 300,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/braixen-witch-02.png",
-  "descricao": "Braixen com sua fantasia de bruxa se imaginando como uma verdadeira feiticeira.",
-  "font_color": "#ffffff"
-},
-{
-  "_id": "protogen-pink",
-  "name": "Protogen Rosada",
-  "braixencoin": 22500,
-  "graveto": 800,
-  "raridade": 1,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/protogen-pink.png",
-  "descricao": "Uma Protogen de cor vibrantemente pink.",
-  "font_color": "#d565b1"
-},
-{
-  "_id": "braixen-premium-v2",
-  "name": "Brix Premium v2",
-  "braixencoin": 0,
-  "graveto": 0,
-  "raridade": 3,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/3%20-%20Exclusive/braixen-premium-v2.png",
-  "descricao": "Arte Brix Premium segunda versão, item exclusivo para todos que comprarem a assinatura pelo sistema de pagamento mercadopago.",
-  "font_color": "#e7c4f0"
-},
-{
-  "_id": "spider-man-art",
-  "name": "Homem Aranha em arte",
-  "braixencoin": 9000,
-  "graveto": 400,
-  "raridade": 0,
-  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/spider-man-art.png",
-  "descricao": "O seu amigão da vizinhança com um belo tom artistico.",
-  "font_color": "#ffffff"
-},
-{
   "_id": "braixen-depressiva",
   "name": "Braixen desanimada",
   "braixencoin": 0,
-  "graveto": 4200,
+  "graveto": 3800,
   "raridade": 2,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/braixen-depressiva.png",
   "descricao": "Braixen recebeu uma noticia muito triste, ou apenas está pensando demais em coisas bobas, mas logo logo ela vai superar isso.",
@@ -1721,7 +1721,7 @@
 {
   "_id": "jujutsu-kaisen-yuji-dark",
   "name": "Yuji Itadori Emissario da Escuridão",
-  "braixencoin": 35000,
+  "braixencoin": 32000,
   "graveto": 950,
   "raridade": 1,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/jujutsu-kaisen-yuji-dark.png",
@@ -1741,8 +1741,8 @@
 {
   "_id": "pokemon-campnight",
   "name": "Noite de Acampamento",
-  "braixencoin": 10000,
-  "graveto": 370,
+  "braixencoin": 12000,
+  "graveto": 400,
   "raridade": 0,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/pokemon-campnight.png",
   "descricao": "Uma noite de acampamento com varios pokémon assando marshmallows em volta de uma fogueira.",
@@ -1752,7 +1752,7 @@
   "_id": "jujutsu-kaisen-yuji-renascer",
   "name": "Yuji Itadori Libertação",
   "braixencoin": 29000,
-  "graveto": 750,
+  "graveto": 950,
   "raridade": 1,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/jujutsu-kaisen-yuji-renascer.png",
   "descricao": "Yuji Itadori de Jujutsu Kaisen, em uma pose como se estivesse se preparando para lutar contra um inimigo.",
@@ -1777,4 +1777,34 @@
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/pokemon-lycanroc-sem-passeio.png",
   "descricao": "Tadinho desse Lycanroc, ele só queria dar uma voltinha mas mal ele sabe que seu treinador vai apenas pegar uma encomenda.",
   "font_color": "#ffffff"
+},
+{
+  "_id": "garconetes-pokemon",
+  "name": "Garçonetes Pokémon",
+  "braixencoin": 42000,
+  "graveto": 1250,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/garconetes-pokemon.png",
+  "descricao": "Braixen e Floragato estão a carater para trabalhar em uma cafeteria/lanchonete, onde elas atendem aos clientes com muita carisma e comidas saborosas.",
+  "font_color": "#fee6a4"
+},
+{
+  "_id": "hatsune-miku-alvorecer",
+  "name": "Despertar da Hatsune Miku",
+  "braixencoin": 0,
+  "graveto": 4500,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/hatsune-miku-alvorecer.png",
+  "descricao": "Hatsune Miku é a maior Vocaloid digital mundialmente conhecida e até por aqui ela esta presente em uma versão cheia de detalhes contrastando com um lindo amanhecer.",
+  "font_color": "#bff9f9"
+},
+{
+  "_id": "windows-xp-558700146754322470",
+  "name": "Windows XP",
+  "braixencoin": 0,
+  "graveto": 4200,
+  "raridade": 2,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/windows-xp-558700146754322470.png",
+  "descricao": "Volte as essencias de um sistema operacional considerado por muitos como o melhor de todos os tempos, um classico da Microsoft, o supremo Windows XP agora em seu perfil, item desenvolvido por <@558700146754322470> - 558700146754322470",
+  "font_color": "#000000"
 }]

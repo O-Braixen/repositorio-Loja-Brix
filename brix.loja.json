@@ -8,7 +8,7 @@
   "braixencoin": 12000,
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-01-30T03:00:00.138Z"
+    "$date": "2026-02-23T03:00:00.159Z"
   }
 },
 {
@@ -70,7 +70,7 @@
   "descricao": "Arte clássica de um braixen brincando com chamas.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-06T03:00:00.165Z"
+    "$date": "2026-02-18T03:00:00.166Z"
   }
 },
 {
@@ -83,7 +83,7 @@
   "descricao": "Um monte de fennekin's no seu perfil.",
   "font_color": "#ffde56",
   "ultima_entrada": {
-    "$date": "2026-02-01T03:00:00.143Z"
+    "$date": "2026-02-16T03:00:00.001Z"
   }
 },
 {
@@ -109,7 +109,7 @@
   "descricao": "Um Braixen passeando pela floresta com suas chamas ardentes.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-01-18T03:00:00.171Z"
+    "$date": "2026-02-14T03:00:00.155Z"
   }
 },
 {
@@ -146,7 +146,10 @@
   "raridade": 2,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/baba-yaga.png",
   "descricao": "Entrego suas armas a Deus, Começamos como terminamos, Das cinzas às cinzas, do pó ao pó.",
-  "font_color": "#f26c00"
+  "font_color": "#f26c00",
+  "ultima_entrada": {
+    "$date": "2026-02-23T03:00:00.159Z"
+  }
 },
 {
   "_id": "soluco-and-banguela",
@@ -181,7 +184,7 @@
   "descricao": "Um tubarão diferenciado tirando uma onda com outro tubarão.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-01-30T03:00:00.138Z"
+    "$date": "2026-02-21T03:00:00.160Z"
   }
 },
 {
@@ -192,7 +195,10 @@
   "raridade": 2,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/braixen-mage.png",
   "descricao": "Um Braixen e seu fiel companheiro Fennekin prontos para enfrentar um grande chefão.",
-  "font_color": "#63a4ff"
+  "font_color": "#63a4ff",
+  "ultima_entrada": {
+    "$date": "2026-02-22T03:00:00.001Z"
+  }
 },
 {
   "_id": "braixen-house",
@@ -204,7 +210,7 @@
   "descricao": "Uma casa cheia de Braixen, uma digna Braixen's House.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-01-30T03:00:00.138Z"
+    "$date": "2026-02-18T03:00:00.166Z"
   }
 },
 {
@@ -217,7 +223,7 @@
   "descricao": "Senko-san relaxando em uma especie de praia ou ilha desertica.",
   "font_color": "#006596",
   "ultima_entrada": {
-    "$date": "2026-02-02T03:00:00.138Z"
+    "$date": "2026-02-15T03:00:00.163Z"
   }
 },
 {
@@ -230,7 +236,7 @@
   "descricao": "Uma Tigresa muito bonita no seu perfil.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-01-12T03:00:00.135Z"
+    "$date": "2026-02-17T03:00:00.001Z"
   }
 },
 {
@@ -251,7 +257,10 @@
   "raridade": 1,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/Pokenite.png",
   "descricao": "Esquadrão Pokémon prontos para cair no mapa de fortnite.",
-  "font_color": "#ffffff"
+  "font_color": "#ffffff",
+  "ultima_entrada": {
+    "$date": "2026-02-23T03:00:00.159Z"
+  }
 },
 {
   "_id": "genshin-impact-yaemiko",
@@ -273,7 +282,7 @@
   "descricao": "Um Braixen no papel de Link em The legend of Zelda Breath of the Wild.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-01-31T03:00:00.138Z"
+    "$date": "2026-02-24T03:00:00.159Z"
   }
 },
 {
@@ -345,7 +354,7 @@
   "descricao": "Braixen no cosplay de Kiki, uma jovem bruxa do filme O Serviço de Entregas da Kiki do studio ghibli.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-11T03:00:00.156Z"
+    "$date": "2026-02-20T03:00:00.000Z"
   }
 },
 {
@@ -358,7 +367,7 @@
   "descricao": "Braixen e Delphox fazendo um intervalo.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-13T03:00:00.156Z"
+    "$date": "2026-02-21T03:00:00.160Z"
   }
 },
 {
@@ -410,7 +419,7 @@
   "descricao": "A dupla dinamica do BNA no seu perfil.",
   "font_color": "#f8bba0",
   "ultima_entrada": {
-    "$date": "2026-02-04T03:00:00.222Z"
+    "$date": "2026-02-17T03:00:00.001Z"
   }
 },
 {
@@ -423,7 +432,7 @@
   "descricao": "Treinador dormindo com seu Cinderace.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-03T03:00:00.001Z"
+    "$date": "2026-02-22T03:00:00.001Z"
   }
 },
 {
@@ -475,7 +484,7 @@
   "descricao": "Uma estrela do cinema adulto do inferno no seu perfil art by theunconsistentone.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-01-31T03:00:00.138Z"
+    "$date": "2026-02-24T03:00:00.159Z"
   }
 },
 {
@@ -488,7 +497,7 @@
   "descricao": "Um Braixen relaxando na natureza enquanto se espreguiça.",
   "font_color": "#3c2747",
   "ultima_entrada": {
-    "$date": "2026-01-23T03:00:00.136Z"
+    "$date": "2026-02-17T03:00:00.001Z"
   }
 },
 {
@@ -501,7 +510,7 @@
   "descricao": "Até Braixen pode acabar fumando, mas espero que esse seja o ultimo, Fumar faz mal.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-09T03:00:00.000Z"
+    "$date": "2026-02-19T03:00:00.175Z"
   }
 },
 {
@@ -514,7 +523,7 @@
   "descricao": "Braixen e fennekin se divertindo em um quarto art by ziryuu.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-11T03:00:00.156Z"
+    "$date": "2026-02-22T03:00:00.001Z"
   }
 },
 {
@@ -553,7 +562,7 @@
   "descricao": "Um Braixen usando suas chamas como proteção de algo.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-01-22T03:00:00.159Z"
+    "$date": "2026-02-20T03:00:00.000Z"
   }
 },
 {
@@ -566,7 +575,7 @@
   "descricao": "O grande Braixen The Fox no seu perfil.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-01-30T03:00:00.138Z"
+    "$date": "2026-02-17T03:00:00.001Z"
   }
 },
 {
@@ -579,7 +588,7 @@
   "descricao": "Essa arte foi construida usando como referencia The Witcher 3 Blood and Wine pelo realspacejunk.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-01-26T03:00:00.143Z"
+    "$date": "2026-02-24T03:00:00.159Z"
   }
 },
 {
@@ -592,7 +601,7 @@
   "descricao": "Um Braixen usando suas habilidades para controlar perfeitamente suas chamas.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-01-08T03:00:00.153Z"
+    "$date": "2026-02-20T03:00:00.000Z"
   }
 },
 {
@@ -605,7 +614,7 @@
   "descricao": "Admire o Koraidon em seu perfil.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-10T03:00:00.165Z"
+    "$date": "2026-02-22T03:00:00.001Z"
   }
 },
 {
@@ -618,7 +627,7 @@
   "descricao": "Essa arte é a mesma utilizada no banner de compra da assinatura premium do brix e agora pode estar também no seu perfil.",
   "font_color": "#e6da58",
   "ultima_entrada": {
-    "$date": "2026-02-04T03:00:00.222Z"
+    "$date": "2026-02-17T03:00:00.001Z"
   }
 },
 {
@@ -644,7 +653,7 @@
   "descricao": "O General de Watatsumi, aquele que luta com com lealdade e valentia, Gorou o general com virtude.",
   "font_color": "#2e272f",
   "ultima_entrada": {
-    "$date": "2026-01-18T03:00:00.171Z"
+    "$date": "2026-02-19T03:00:00.175Z"
   }
 },
 {
@@ -657,7 +666,7 @@
   "descricao": "Uma Braixen ao melhor estilo Oriental.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-02T03:00:00.138Z"
+    "$date": "2026-02-23T03:00:00.159Z"
   }
 },
 {
@@ -668,7 +677,10 @@
   "raridade": 1,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/genshin-impact-tighnari.png",
   "descricao": "Tighnari é um jovem pesquisador Amurta que conhece bastante sobre botânica, e nada melhor que explorar os conhecimentos diretamente na fonte, art by Ethemos.",
-  "font_color": "#00ff5a"
+  "font_color": "#00ff5a",
+  "ultima_entrada": {
+    "$date": "2026-02-17T03:00:00.001Z"
+  }
 },
 {
   "_id": "braixen-la-art2",
@@ -680,7 +692,7 @@
   "descricao": "Braixen feito com um tom de pintura para seu perfil, art by thwill.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-10T03:00:00.165Z"
+    "$date": "2026-02-22T03:00:00.001Z"
   }
 },
 {
@@ -706,7 +718,7 @@
   "descricao": "Meowscarada e Hisuian Typhlosion Aproveitando a boa brisa que uma planta pode oferecer.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-10T03:00:00.165Z"
+    "$date": "2026-02-21T03:00:00.160Z"
   }
 },
 {
@@ -762,7 +774,7 @@
   "descricao": "Braixen se sente invencível, reinando em seu fort de papelão.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-12T03:00:00.160Z"
+    "$date": "2026-02-21T03:00:00.160Z"
   }
 },
 {
@@ -788,7 +800,7 @@
   "descricao": "Tenha os pokémon jogando futebol em seu perfil.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-02T03:00:00.138Z"
+    "$date": "2026-02-15T03:00:00.163Z"
   }
 },
 {
@@ -801,7 +813,7 @@
   "descricao": "Braixen aproveitando para comprar alguns pães em Lumiose city.",
   "font_color": "#fdff56",
   "ultima_entrada": {
-    "$date": "2026-02-11T03:00:00.156Z"
+    "$date": "2026-02-14T03:00:00.155Z"
   }
 },
 {
@@ -874,7 +886,10 @@
   "raridade": 1,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/delphox-realistic.png",
   "descricao": "tenha em seu perfil um incrível delphox feito por inteligencia artificial!",
-  "font_color": "#5b261e"
+  "font_color": "#5b261e",
+  "ultima_entrada": {
+    "$date": "2026-02-21T03:00:00.160Z"
+  }
 },
 {
   "_id": "lucario-realistic",
@@ -925,7 +940,7 @@
   "descricao": "Kirara, uma aventureira alegre, percorre a cidade em sua bicicleta azul vibrante, espalhando risadas e alegria em seu caminho.",
   "font_color": "#134496",
   "ultima_entrada": {
-    "$date": "2026-02-09T03:00:00.000Z"
+    "$date": "2026-02-21T03:00:00.160Z"
   }
 },
 {
@@ -938,7 +953,7 @@
   "descricao": "Braixen White após descobrir que tem um câncer terminal resolve arriscar tudo para ganhar dinheiro enquanto pode, transformando sua van em um laboratório de gravetofetamina.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-04T03:00:00.222Z"
+    "$date": "2026-02-20T03:00:00.000Z"
   }
 },
 {
@@ -1003,7 +1018,7 @@
   "descricao": "Acheron personagem de Star Rail é uma andarilha que afirma ser uma Galaxy Ranger.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-04T03:00:00.222Z"
+    "$date": "2026-02-21T03:00:00.160Z"
   }
 },
 {
@@ -1016,7 +1031,7 @@
   "descricao": "Sangonomiya Kokomi conhecida apenas como Kokomi é uma jovem Sacerdotisa Divina da Ilha Watatsumi e descendente do Clã Sangonomiya, art by Ankkoyom.",
   "font_color": "#44ffff",
   "ultima_entrada": {
-    "$date": "2026-02-07T03:00:00.168Z"
+    "$date": "2026-02-14T03:00:00.155Z"
   }
 },
 {
@@ -1066,7 +1081,10 @@
   "raridade": 0,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/zelda-totk-01.png",
   "descricao": "Zelda Tears of the Kingdom com Link.",
-  "font_color": "#ffffff"
+  "font_color": "#ffffff",
+  "ultima_entrada": {
+    "$date": "2026-02-16T03:00:00.001Z"
+  }
 },
 {
   "_id": "halloween-fennekin",
@@ -1078,7 +1096,7 @@
   "descricao": "Fennekin está preparado para o Halloween com sua fantasia de demoniozinho.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-04T03:00:00.222Z"
+    "$date": "2026-02-16T03:00:00.001Z"
   }
 },
 {
@@ -1117,7 +1135,7 @@
   "descricao": "As aulas voltaram e Braixen também voltou a estudar seja lá oque ele estuda.",
   "font_color": "#f8c665",
   "ultima_entrada": {
-    "$date": "2026-02-05T03:00:00.168Z"
+    "$date": "2026-02-22T03:00:00.001Z"
   }
 },
 {
@@ -1166,7 +1184,7 @@
   "descricao": "Bem Solo, para os inimigos Kylo Ren filho de Leia e Han Solo.",
   "font_color": "#e17051",
   "ultima_entrada": {
-    "$date": "2026-01-15T03:00:00.136Z"
+    "$date": "2026-02-24T03:00:00.159Z"
   }
 },
 {
@@ -1179,7 +1197,7 @@
   "descricao": "Tenha em seu perfil um incrível Meowth feito por inteligência artificial!",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-13T03:00:00.156Z"
+    "$date": "2026-02-16T03:00:00.001Z"
   }
 },
 {
@@ -1192,7 +1210,7 @@
   "descricao": "Tenha em seu perfil um incrível Leafeon feito por inteligência artificial!",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-13T03:00:00.156Z"
+    "$date": "2026-02-16T03:00:00.001Z"
   }
 },
 {
@@ -1205,7 +1223,7 @@
   "descricao": "Tenha em seu perfil um incrível Sylveon feito por inteligência artificial!",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-09T03:00:00.000Z"
+    "$date": "2026-02-21T03:00:00.160Z"
   }
 },
 {
@@ -1244,7 +1262,7 @@
   "descricao": "Liko e Floragato curtindo o momento, arte original foi exibida nos créditos de Pokémon Horizontes ep 58 da versão japonesa.",
   "font_color": "#ffd5d1",
   "ultima_entrada": {
-    "$date": "2026-01-27T03:00:00.141Z"
+    "$date": "2026-02-24T03:00:00.159Z"
   }
 },
 {
@@ -1257,7 +1275,7 @@
   "descricao": "Tenha em seu perfil um incrível Piplup feito por inteligência artificial!",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-09T03:00:00.000Z"
+    "$date": "2026-02-19T03:00:00.175Z"
   }
 },
 {
@@ -1342,7 +1360,7 @@
   "descricao": "Inspirado no Filme, tenha Deadpool e Wolverine trocando porrada em seu perfil.",
   "font_color": "#000000",
   "ultima_entrada": {
-    "$date": "2026-02-03T03:00:00.001Z"
+    "$date": "2026-02-23T03:00:00.159Z"
   }
 },
 {
@@ -1355,7 +1373,7 @@
   "descricao": "Mais um dia de trabalho em feriado para o dragão roxo, item desenvolvido por <@558700146754322470> - 558700146754322470",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-08T03:00:00.159Z"
+    "$date": "2026-02-22T03:00:00.001Z"
   }
 },
 {
@@ -1368,7 +1386,7 @@
   "descricao": "O Dragão em um mundo Desconhecido e Magico!, item desenvolvido por <@558700146754322470> - 558700146754322470",
   "font_color": "#00c8de",
   "ultima_entrada": {
-    "$date": "2026-01-16T03:00:00.000Z"
+    "$date": "2026-02-22T03:00:00.001Z"
   }
 },
 {
@@ -1391,7 +1409,7 @@
   "descricao": "Puro em uma estranha visão, já para seu perfil, item desenvolvido por <@888130413799833600>- 888130413799833600",
   "font_color": "#d2715f",
   "ultima_entrada": {
-    "$date": "2026-01-15T03:00:00.136Z"
+    "$date": "2026-02-21T03:00:00.160Z"
   }
 },
 {
@@ -1402,7 +1420,10 @@
   "raridade": 1,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/dog-agua-558700146754322470.png",
   "descricao": "Mais um dia comum comprando uma água pra se hidratar, item desenvolvido por <@558700146754322470> - 558700146754322470",
-  "font_color": "#6cff64"
+  "font_color": "#6cff64",
+  "ultima_entrada": {
+    "$date": "2026-02-23T03:00:00.159Z"
+  }
 },
 {
   "_id": "lol-xayah",
@@ -1414,7 +1435,7 @@
   "descricao": "Xayah é uma revolucionaria que sempre trava suas próprias batalhas em prol do seu povo pronta para acabar com qualquer um com sua agilidade e plumas afiadas.",
   "font_color": "#ec5b71",
   "ultima_entrada": {
-    "$date": "2026-02-10T03:00:00.165Z"
+    "$date": "2026-02-19T03:00:00.175Z"
   }
 },
 {
@@ -1427,7 +1448,7 @@
   "descricao": "O pokemon moto que se finge de largatixa, item desenvolvido por <@558700146754322470> - 558700146754322470",
   "font_color": "#00427a",
   "ultima_entrada": {
-    "$date": "2026-01-15T03:00:00.136Z"
+    "$date": "2026-02-24T03:00:00.159Z"
   }
 },
 {
@@ -1440,7 +1461,7 @@
   "descricao": "O pokemon largatixa que se finge de moto, item desenvolvido por <@558700146754322470> - 558700146754322470",
   "font_color": "#f7ff3e",
   "ultima_entrada": {
-    "$date": "2026-01-20T03:00:00.001Z"
+    "$date": "2026-02-20T03:00:00.000Z"
   }
 },
 {
@@ -1453,7 +1474,7 @@
   "descricao": "O Dragão roxo que adora tocar fogo nas coisas e se meter em confusões em que não foi chamado, um ótimo aventureiro pra levar nas viagens, item desenvolvido por <@558700146754322470> - 558700146754322470",
   "font_color": "#ffd28b",
   "ultima_entrada": {
-    "$date": "2026-01-23T03:00:00.136Z"
+    "$date": "2026-02-18T03:00:00.166Z"
   }
 },
 {
@@ -1466,7 +1487,7 @@
   "descricao": "Megumin é sem dúvidas uma maníaca viciada e fascinada pelo poder que uma explosão pode causar além de ser muito forte e ser capaz de garantir a vitória.",
   "font_color": "#f22d35",
   "ultima_entrada": {
-    "$date": "2026-01-24T03:00:00.154Z"
+    "$date": "2026-02-16T03:00:00.001Z"
   }
 },
 {
@@ -1487,7 +1508,10 @@
   "raridade": 3,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/3%20-%20Exclusive/vinicius-aniversario-2024-eventoexclusive.png",
   "descricao": "Arte comemorando os 26 anos do meu desenvolvedor o grande Vinicius conhecido por muitos como OBraixen, essa arte entrou na loja no dia 28/12/2024 e só foi comercializada neste dia.",
-  "font_color": "#f2e670"
+  "font_color": "#f2e670",
+  "ultima_entrada": {
+    "$date": "2024-12-28T03:00:00.138Z"
+  }
 },
 {
   "_id": "spider-man-espetacular",
@@ -1499,7 +1523,7 @@
   "descricao": "O seu amigão da vizinhança o Homem-Aranha se preparando para proteger a cidade em mais uma noite.",
   "font_color": "#ff5373",
   "ultima_entrada": {
-    "$date": "2026-01-22T03:00:00.159Z"
+    "$date": "2026-02-19T03:00:00.175Z"
   }
 },
 {
@@ -1522,7 +1546,7 @@
   "descricao": "O seu amigão da vizinhança tirando uma bela foto de alguém muito especial.",
   "font_color": "#feffa8",
   "ultima_entrada": {
-    "$date": "2026-02-08T03:00:00.159Z"
+    "$date": "2026-02-19T03:00:00.175Z"
   }
 },
 {
@@ -1535,7 +1559,7 @@
   "descricao": "Shikanokonokonokoshitantan.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-01-23T03:00:00.136Z"
+    "$date": "2026-02-19T03:00:00.175Z"
   }
 },
 {
@@ -1584,7 +1608,7 @@
   "descricao": "Contemple o Umbreon em toda sua elegância como uma fonte de luz na escuridão.",
   "font_color": "#fff999",
   "ultima_entrada": {
-    "$date": "2026-01-24T03:00:00.154Z"
+    "$date": "2026-02-17T03:00:00.001Z"
   }
 },
 {
@@ -1623,7 +1647,7 @@
   "descricao": "Sylveon visitando uma residência abandonada pelas ruinas do tempo tomada pela natureza.",
   "font_color": "#f27e95",
   "ultima_entrada": {
-    "$date": "2026-02-13T03:00:00.156Z"
+    "$date": "2026-02-17T03:00:00.001Z"
   }
 },
 {
@@ -1677,7 +1701,10 @@
   "raridade": 1,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/braixen-and-serena-conquest.png",
   "descricao": "Braixen e sua treinadora Serena prontas para o próximo conquest lá em kalos!",
-  "font_color": "#f28291"
+  "font_color": "#f28291",
+  "ultima_entrada": {
+    "$date": "2026-02-18T03:00:00.166Z"
+  }
 },
 {
   "_id": "hollow-knight-1209143579864334377",
@@ -1689,7 +1716,7 @@
   "descricao": "O cavalheiro da noite do jogo Hollow Knight, item desenvolvido por <@1209143579864334377> - 1209143579864334377",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-12T03:00:00.160Z"
+    "$date": "2026-02-20T03:00:00.000Z"
   }
 },
 {
@@ -1741,7 +1768,7 @@
   "descricao": "Arlecchino pertencente ao jogo Genshin Impact.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-08T03:00:00.159Z"
+    "$date": "2026-02-14T03:00:00.155Z"
   }
 },
 {
@@ -1798,7 +1825,10 @@
   "raridade": 1,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/delphox-poderoso.png",
   "descricao": "Delphox em mais um dia de treinamento com seu graveto magico em um lugar desconhecido isolado.",
-  "font_color": "#ffcf96"
+  "font_color": "#ffcf96",
+  "ultima_entrada": {
+    "$date": "2026-02-24T03:00:00.159Z"
+  }
 },
 {
   "_id": "pokemon-meowscarada-nerdroom",
@@ -1810,7 +1840,7 @@
   "descricao": "Meowscarada visitando o quarto de seu novo treinador, um quarto cheio de referencias da cultura pop.",
   "font_color": "#fbbeb0",
   "ultima_entrada": {
-    "$date": "2026-02-12T03:00:00.160Z"
+    "$date": "2026-02-20T03:00:00.000Z"
   }
 },
 {
@@ -1836,7 +1866,7 @@
   "descricao": "Braixen ao melhor estilo cavalheiro.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-05T03:00:00.168Z"
+    "$date": "2026-02-16T03:00:00.001Z"
   }
 },
 {
@@ -1849,7 +1879,7 @@
   "descricao": "Delphox fazendo um coração fofinho.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-01-27T03:00:00.141Z"
+    "$date": "2026-02-24T03:00:00.159Z"
   }
 },
 {
@@ -1860,7 +1890,10 @@
   "raridade": 1,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/flora-braixen.png",
   "descricao": "Floragato e Braixen disputando pela sua atenção, onde que você só pode escolher um deles, ou o gato ou a raposa, mas talvez os dois podem ser escolhidos também.",
-  "font_color": "#3e679d"
+  "font_color": "#3e679d",
+  "ultima_entrada": {
+    "$date": "2026-02-24T03:00:00.159Z"
+  }
 },
 {
   "_id": "pokemon-sylveon-blue",
@@ -1896,7 +1929,10 @@
   "raridade": 1,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/meowscarada-cidadeanoitecendo.png",
   "descricao": "Meowscarada está em um possível encontro romântico com alguém em especifico, apreciando uma chuva de estrelas durante o anoitecer.",
-  "font_color": "#e6f4ac"
+  "font_color": "#e6f4ac",
+  "ultima_entrada": {
+    "$date": "2026-02-23T03:00:00.159Z"
+  }
 },
 {
   "_id": "meowscarada-meowcat",
@@ -1908,7 +1944,7 @@
   "descricao": "Meowscarada fazendo uma sombra dela mesma como gata.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-01-22T03:00:00.159Z"
+    "$date": "2026-02-18T03:00:00.166Z"
   }
 },
 {
@@ -1921,7 +1957,7 @@
   "descricao": "Colagem dos personagens Belfort & Lupin,item desenvolvido por <@1054557044574789692>- 1054557044574789692.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-01-30T03:00:00.138Z"
+    "$date": "2026-02-18T03:00:00.166Z"
   }
 },
 {
@@ -1934,7 +1970,7 @@
   "descricao": "Conselheira do Magistrado de Jinzhou, Changli é especialista em aproveitar a natureza humana para encurralar seus inimigos em armadilhas, item desenvolvido por <@1209143579864334377>- 1209143579864334377.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-11T03:00:00.156Z"
+    "$date": "2026-02-22T03:00:00.001Z"
   }
 },
 {
@@ -1957,7 +1993,7 @@
   "descricao": "Meowscarada em um dia de aula ao melhor estilo do anime Minha Amiga Nokotan É um Cervo.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-01-29T03:00:00.000Z"
+    "$date": "2026-02-14T03:00:00.155Z"
   }
 },
 {
@@ -1983,7 +2019,7 @@
   "descricao": "Braixen em um dia de aula ao melhor estilo do anime Minha Amiga Nokotan É um Cervo, arte de AsuraKitsune.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-11T03:00:00.156Z"
+    "$date": "2026-02-14T03:00:00.155Z"
   }
 },
 {
@@ -1996,7 +2032,7 @@
   "descricao": "Dois Braixen passeando em um parque, arte de CoffeeFly.",
   "font_color": "#e6e170",
   "ultima_entrada": {
-    "$date": "2026-01-10T03:00:00.128Z"
+    "$date": "2026-02-16T03:00:00.001Z"
   }
 },
 {
@@ -2033,7 +2069,10 @@
   "raridade": 1,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/lucario-meditacao.png",
   "descricao": "Lucario possui um lugar particular para que possa meditar em paz e controlar melhor o poder da aura.",
-  "font_color": "#9ce4fb"
+  "font_color": "#9ce4fb",
+  "ultima_entrada": {
+    "$date": "2026-02-20T03:00:00.000Z"
+  }
 },
 {
   "_id": "pokemon-liko-ash",
@@ -2058,7 +2097,7 @@
   "descricao": "Braixen com sua fantasia de bruxa se imaginando como uma verdadeira feiticeira.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-11T03:00:00.156Z"
+    "$date": "2026-02-22T03:00:00.001Z"
   }
 },
 {
@@ -2107,7 +2146,7 @@
   "descricao": "Braixen recebeu uma noticia muito triste, ou apenas está pensando demais em coisas bobas, mas logo logo ela vai superar isso.",
   "font_color": "#9b2498",
   "ultima_entrada": {
-    "$date": "2026-01-16T03:00:00.000Z"
+    "$date": "2026-02-21T03:00:00.160Z"
   }
 },
 {
@@ -2120,7 +2159,7 @@
   "descricao": "Arte de YorusagiArt com sua Pokésona Yoru com um verdadeiro traje de aluna do ensino medio.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-01-22T03:00:00.159Z"
+    "$date": "2026-02-23T03:00:00.159Z"
   }
 },
 {
@@ -2195,7 +2234,7 @@
   "descricao": "Tadinho desse Lycanroc, ele só queria dar uma voltinha mas mal ele sabe que seu treinador vai apenas pegar uma encomenda.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-01-28T03:00:00.137Z"
+    "$date": "2026-02-24T03:00:00.159Z"
   }
 },
 {
@@ -2208,7 +2247,7 @@
   "descricao": "Braixen e Floragato estão a carater para trabalhar em uma cafeteria/lanchonete, onde elas atendem aos clientes com muita carisma e comidas saborosas.",
   "font_color": "#fee6a4",
   "ultima_entrada": {
-    "$date": "2026-01-15T03:00:00.136Z"
+    "$date": "2026-02-20T03:00:00.000Z"
   }
 },
 {
@@ -2252,7 +2291,10 @@
   "raridade": 3,
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/3%20-%20Exclusive/vinicius-aniversario-2025-eventoexclusive.png",
   "descricao": "Arte comemorando os 27 anos do meu desenvolvedor o grande Vinicius conhecido por muitos como OBraixen, essa arte entrou na loja no dia 28/12/2025 e só foi comercializada neste dia.",
-  "font_color": "#632e02"
+  "font_color": "#632e02",
+  "ultima_entrada": {
+    "$date": "2025-12-28T03:00:00.138Z"
+  }
 },
 {
   "_id": "meowscarada-elegante",
@@ -2264,7 +2306,7 @@
   "descricao": "Uma Meowscarada muito elegante e charmoso feito pelo flufflix.",
   "font_color": "#f75f98",
   "ultima_entrada": {
-    "$date": "2026-01-29T03:00:00.000Z"
+    "$date": "2026-02-23T03:00:00.159Z"
   }
 },
 {
@@ -2287,7 +2329,7 @@
   "descricao": "Tenha em seu perfil esse Lucario que parece estar querendo dar um carinho!",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-10T03:00:00.165Z"
+    "$date": "2026-02-16T03:00:00.001Z"
   }
 },
 {
@@ -2300,7 +2342,7 @@
   "descricao": "Tenha o herói mais boca suja em seu perfil, item desenvolvido por <@1018275881422164081> - 1018275881422164081.",
   "font_color": "#ffffff",
   "ultima_entrada": {
-    "$date": "2026-02-05T03:00:00.168Z"
+    "$date": "2026-02-18T03:00:00.166Z"
   }
 },
 {
@@ -2313,7 +2355,7 @@
   "descricao": "Satoru Gojo é o feiticeiro jujutsu mais forte do mundo em Jujutsu Kaisen usuário de uma técnica hereditária chamada Mugen que o permite manipular o espaço e a energia de forma divina.",
   "font_color": "#e29dfc",
   "ultima_entrada": {
-    "$date": "2026-02-10T03:00:00.165Z"
+    "$date": "2026-02-15T03:00:00.163Z"
   }
 },
 {
@@ -2339,7 +2381,7 @@
   "descricao": "Ahri de League of Legends, a Vastaya com traços de raposa capaz de manipular as emoções e consumir a essência de suas presas em sua versão Spirit Blossom, item desenvolvido por <@197071176810364928> - 197071176810364928",
   "font_color": "#f370d1",
   "ultima_entrada": {
-    "$date": "2026-01-28T03:00:00.137Z"
+    "$date": "2026-02-23T03:00:00.159Z"
   }
 },
 {
@@ -2390,4 +2432,34 @@
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/3%20-%20Exclusive/heroi-aaron-akio-eventoexclusive.png",
   "descricao": "Aaron Akio representando o herói dos Braixen nessa incrível arte feita pelo @Eryz_01, Essa arte é exclusiva para o evento festival das raposas 2026.",
   "font_color": "#ffffc0"
+},
+{
+  "_id": "pokemon-braixen-sleep",
+  "name": "Pokémon Sleep Braixen",
+  "braixencoin": 10500,
+  "graveto": 450,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/pokemon-braixen-sleep.png",
+  "descricao": "Você acabou de acordar e encontrou um lindo Braixen tirando aquele belo cochilo.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "braixen-fluffy-mage",
+  "name": "Mago Fofinho",
+  "braixencoin": 21000,
+  "graveto": 750,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/braixen-fluffy-mage.png",
+  "descricao": "Um Braixen muito fofinho totalmente trajado de mago, com direito a chapéu roupas características e até um grimório são itens desse mini bruxo fofinho.",
+  "font_color": "#ffc262"
+},
+{
+  "_id": "mega-delphox-mage",
+  "name": "Bruxa Suprema Delphox",
+  "braixencoin": 27000,
+  "graveto": 790,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/mega-delphox-mage.png",
+  "descricao": "Mega Delphox mostrando todo o seu poder viajando em cima de seu enorme cajado ao melhor estilo que uma verdadeira bruxa poderia fazer.",
+  "font_color": "#f18baa"
 }]

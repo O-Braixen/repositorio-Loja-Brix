@@ -2197,4 +2197,44 @@
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/mlp-princesa-luna-1140007646225764423.png",
   "descricao": "Princesa Luna de My Little Poney em um tom artístico diretamente em seu perfil, item desenvolvido por <@1140007646225764423> - 1140007646225764423.",
   "font_color": "#ffffff"
+},
+{
+  "_id": "anime-girl-gamer-pc",
+  "name": "Garota do PC Gamer",
+  "braixencoin": 10500,
+  "graveto": 250,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/anime-girl-gamer-pc.png",
+  "descricao": "Uma garota tematizada de anime com seu grandioso PC gamer de dar inveja em muitos que querem um pc maneiro como o dela.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "anime-girl-anoitecer",
+  "name": "Horizonte Infinito",
+  "braixencoin": 42000,
+  "graveto": 1000,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/anime-girl-anoitecer.png",
+  "descricao": "Uma figura solitária observa o céu estrelado enquanto o dia se despede em tons vibrantes de azul e rosa. A lua crescente ilumina o caminho, criando uma cena contemplativa e cheia de emoção. Um item que transmite liberdade, reflexão e aquela sensação de que sempre existe algo maior além do horizonte.",
+  "font_color": "#bf94dd"
+},
+{
+  "_id": "anime-chainsaw-man-escuridao-serra",
+  "name": "Escuridão da Moto Serra",
+  "braixencoin": 24000,
+  "graveto": 650,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/anime-chainsaw-man-escuridao-serra.png",
+  "descricao": "Denji de chainsaw man está perdido em seus pensamentos tomado por uma imensa escuridão e somente há um pequeno foco de luz ao topo como uma possivel solução para seus pensamentos.",
+  "font_color": "#b0b0b0"
+},
+{
+  "_id": "pokemon-decidueye-floresta",
+  "name": "Arqueiro da Floresta",
+  "braixencoin": 42000,
+  "graveto": 950,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/pokemon-decidueye-floresta.png",
+  "descricao": "Decidueye um verdadeiro Robin Hood do mundo Pokémon com flexas capazes de perfurar uma pedra.",
+  "font_color": "#f9b961"
 }]

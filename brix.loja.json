@@ -2297,4 +2297,24 @@
   "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/2%20-%20epico/helluva_boss_loona_hellfire.png",
   "descricao": "Envolta por chamas intensas e tons avermelhados, Loona surge com seu olhar marcante e aquela atitude rebelde inconfundível. Uma arte cheia de personalidade, contraste e energia sombria, perfeita pra quem curte um visual ousado e cheio de presença no perfil. (Versão adaptada da arte original feita por @Furctose)",
   "font_color": "#ff7b4f"
+},
+{
+  "_id": "pokemon_mewtwo_ember",
+  "name": "Mewtwo Aura de Chamas",
+  "braixencoin": 13440,
+  "graveto": 320,
+  "raridade": 0,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/0%20-%20comum/pokemon_mewtwo_ember.png",
+  "descricao": "Envolto por uma espiral de chamas vibrantes e faíscas incandescentes, Mewtwo aparece em silhueta, exalando força e imponência lendária. O contraste dramático entre as sombras e o fogo intenso destaca toda a sua presença, ideal pra quem curte uma estética poderosa e cinematográfica.",
+  "font_color": "#ffffff"
+},
+{
+  "_id": "pokemon-vaporeon-gigantamax",
+  "name": "Vaporeon Dominador da Água",
+  "braixencoin": 46200,
+  "graveto": 1100,
+  "raridade": 1,
+  "url": "https://raw.githubusercontent.com/O-Braixen/repositorio-Loja-Brix/refs/heads/main/Artes%20Loja/1%20-%20raro/pokemon-vaporeon-gigantamax.png",
+  "descricao": "Dominando o oceano com proporções colossais, Vaporeon surge em meio às ondas, cercado por outros Pokémon aquáticos e pela vida vibrante do mar. Uma cena grandiosa que transmite fluidez, imponência e aventura, perfeita pra quem quer um perfil cheio de movimento e destaque.",
+  "font_color": "#004582"
 }]
